@@ -21,11 +21,13 @@
                             <div class="tp-caption   tp-resizeme" id="slide-32-layer-1" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['240','262','272','198']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"></div>
 
                             <!-- LAYER NR. 2 -->
-                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-2" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['361','383','403','325']" data-fontsize="['50','50','35','35']" data-lineheight="['64','64','45','45']" data-width="['881','881','600','400']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 881px; max-width: 881px; white-space: normal; font-size: 50px; line-height: 64px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">We are a team of strategists,
-                                designers, architects, and engineers. </div>
-
-                            <!-- LAYER NR. 3 -->
-                            <a class="tp-caption TM-Button-flat-01 rev-btn " href="page-contact.html" target="_self" id="slide-32-layer-3" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['519','541','531','546']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='' data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(34,34,34);bg:rgb(255,255,255);bs:solid;bw:0 0 0 0;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[17,17,17,17]" data-paddingright="[30,30,30,30]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[30,30,30,30]" style="z-index: 7; white-space: nowrap; letter-spacing: 0.5px;text-transform:uppercase;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-decoration: none;">Get a quote </a>
+                            <div class="tesAnjay">
+                                <div class="tp-caption   tp-resizeme" id="slide-32-layer-2" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['361','383','403','325']" data-fontsize="['50','50','35','35']" data-lineheight="['64','64','45','45']" data-width="['881','881','600','400']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 881px; max-width: 881px; white-space: normal; font-size: 50px; line-height: 64px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">We are a team of strategists,
+                                    designers, architects, and engineers. </div>
+    
+                                <!-- LAYER NR. 3 -->
+                                <a class="tp-caption TM-Button-flat-01 rev-btn " href="page-contact.html" target="_self" id="slide-32-layer-3" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['519','541','531','546']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='' data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(34,34,34);bg:rgb(255,255,255);bs:solid;bw:0 0 0 0;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[17,17,17,17]" data-paddingright="[30,30,30,30]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[30,30,30,30]" style="z-index: 7; white-space: nowrap; letter-spacing: 0.5px;text-transform:uppercase;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-decoration: none;">Get a quote </a>
+                            </div>
                         </li>
                     </ul>
                     <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
@@ -38,10 +40,16 @@
         <div class="project-counter-area section-space--inner--100">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-12 text-center mb-5">
+                        <h2>MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
+                        <p>Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="project-counter-single-content-wrapper">
                             <div class="row">
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-12">
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
@@ -49,12 +57,19 @@
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <span class="project-counter-single-content__project-count counter">2000</span>
-                                            <h5 class="project-counter-single-content__project-title">Nationwide Branches</h5>
-                                            <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p>
+                                            <h5 class="project-counter-single-content__project-title">MANAJEMEN DATA </h5>
+                                            <div class="about-list-wrapper">
+                                                <ul class="about-list">
+                                                    <li>Hash Core ERP memberikan keamanan terbaik untuk seluruh data perusahaan, baik data keuangan maupun data karyawan</li>
+                                                    <li>Seluruh data perusahaan dapat diakses dari mana saja dan kapan saja sesuai dengan kebutuhan pengguna</li>
+                                                    <li>Pengguna dapat melakukan proses transfer data antar sistem secara mudah dengan Hash Core ERP yang dapat dikustomisasi</li>
+                                                </ul>
+                                            </div>
+                                            <!-- <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-12">
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
@@ -62,12 +77,18 @@
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <span class="project-counter-single-content__project-count counter">3000</span>
-                                            <h5 class="project-counter-single-content__project-title">Completed Projects</h5>
-                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                            <h5 class="project-counter-single-content__project-title">SISTEM YANG TERINTEGRASI</h5>
+                                            <div class="about-list-wrapper">
+                                                <ul class="about-list">
+                                                    <li>Hash Core ERP yang mengintegrasikan seluruh modul akan membantu menyederhanakan kolaborasi antar divisi dalam perusahaan</li>
+                                                    <li>Data yang akurat dan real-time dari Hash Core ERP dapat memudahkan perusahaan dalam menanggapi kebutuhan pelanggan</li>
+                                                    <li>Adanya konsep integrasi entri data tunggal secara real-time pada Hash Core ERP memungkinkan perusahaan untuk mengakses informasi penting tanpa terhalang tempat dan waktu</li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-12">
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
@@ -75,24 +96,18 @@
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <span class="project-counter-single-content__project-count counter">543</span>
-                                            <h5 class="project-counter-single-content__project-title">Trees Planted</h5>
-                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                            <h5 class="project-counter-single-content__project-title">KONFIGURASI SOFTWARE</h5>
+                                            <div class="about-list-wrapper">
+                                                <ul class="about-list">
+                                                    <li>Hash Core ERP dapat memudahkan segala validasi data sistem untuk memaksimalkan pengolahan data perusahaan</li>
+                                                    <li>Fitur kustomisasi pada software Hash Core ERP dapat menyesuaikan segala kebutuhan bisnis Anda</li>
+                                                    <li>Kemudahan pencarian data yang disediakan oleh Hash Core ERP memiliki kemampuan penyaringan secara sederhana dan berjalan secara multitasking, terintegrasi dengan berbagai modul</li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <!-- project counter single content -->
-                                    <div class="project-counter-single-content project-counter-single-content--style2">
-                                        <div class="project-counter-single-content__image">
-                                            <img src="assets/img/icons/reuse-dark.png" class="img-fluid" alt="">
-                                        </div>
-                                        <div class="project-counter-single-content__content">
-                                            <span class="project-counter-single-content__project-count counter">4600</span>
-                                            <h5 class="project-counter-single-content__project-title">Business Retails</h5>
-                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
-                                        </div>
-                                    </div>
-                                </div>
+                                <
                             </div>
                         </div>
                     </div>
@@ -264,41 +279,59 @@
         <div class="about-feature-icon-area section-space--inner--120">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
+                        <p>Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-12">
                         <div class="about-icon-box-wrapper">
                             <div class="row align-items-center">
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon1.png" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
-                                            <h4 class="title">Mission & Values</h4>
-                                            <p class="content">Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.</p>
+                                            <h4 class="title">Otomatisasi Proses Bisnis</h4>
+                                            <p class="content">Segera beralih ke Hash CORE ERP tercanggih untuk mengotomatisasi pekerjaan manual yang memakan waktu dan tenaga dalam proses bisnis Anda menjadi lebih efisien.</p>
                                             <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon2.png" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
-                                            <h4 class="title">Corporate Structure</h4>
-                                            <p class="content">Each of our departments effectively performs their specialized function while collaborating with each other to achieve the corporate's goals.</p>
+                                            <h4 class="title">Kemudahan Akses Data</h4>
+                                            <p class="content">Hash CORE ERP cloud terbaik dapat memudahkan Anda dalam mengakses data perusahaan secara cepat kapanpun dan dimanapun Anda menginginkannya.</p>
                                             <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon3.png" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
-                                            <h4 class="title">Corporate Accountability</h4>
-                                            <p class="content">We assure that our company will always keep our performance and behavior in line with the government's regulations on environment protection.</p>
+                                            <h4 class="title">Sesuai Kebutuhan Perusahaan</h4>
+                                            <p class="content">Tingkatkan efisiensi dengan sistem tercerdas dari Hash CORE ERP yang dapat dikustomisasi sesuai dengan kebutuhan unik dalam perusahaan Anda.</p>
+                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="about-icon-box">
+                                        <div class="about-icon-box__image">
+                                            <img src="assets/img/icons/about-icon3.png" alt="">
+                                        </div>
+                                        <div class="about-icon-box__content">
+                                            <h4 class="title">Buat Keputusan Akurat</h4>
+                                            <p class="content">Wujudkan keputusan bisnis yang cermat dengan bantuan Hash CORE ERP mutakhir untuk menyediakan data secara real-time dan akurat demi kesuksesan perusahaan Anda.</p>
                                             <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
                                         </div>
                                     </div>

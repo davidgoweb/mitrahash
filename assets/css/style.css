@@ -907,6 +907,25 @@
 	box-sizing: border-box;
 }
 
+.tp-parallax-wrap:last-child {
+	width: fit-content;
+}
+
+li.tp-revslider-slidesli.active-revslide{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tesAnjay{
+	display: block;
+}
+
+.tp-loop-wrap, .tp-mask-wrap, .tp-parallax-wrap{
+	position: unset !important;
+}
+
 html,
 body {
 	height: 100%;
