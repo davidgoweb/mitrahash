@@ -931,6 +931,10 @@ li.tp-revslider-slidesli.active-revslide{
 	position: unset !important;
 }
 
+.about-icon-box-wrapper p.content{
+	min-height: 90px;
+}
+
 html,
 body {
     height: 100%;

@@ -347,10 +347,10 @@
                     <div class="col-lg-12">
                         <div class="about-icon-box-wrapper">
                             <div class="row align-items-center">
-                                <div class="col-md-3">
+                                <div class="col-md-6">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
-                                            <img src="assets/img/icons/about-icon1.png" alt="">
+                                            <img src="assets/img/icons/about-icon1.png" height="98px" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
                                             <h4 class="title">Otomatisasi Proses Bisnis</h4>
@@ -359,7 +359,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-6">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon2.png" alt="">
@@ -371,7 +371,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-6">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon3.png" alt="">
@@ -383,7 +383,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-6">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
                                             <img src="assets/img/icons/about-icon3.png" alt="">
