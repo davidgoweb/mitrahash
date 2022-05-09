@@ -31,6 +31,30 @@
                     <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                 </div>
             </div><!-- END REVOLUTION SLIDER -->
+            <div id="rev_slider_14_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="about-01" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+                <!-- START REVOLUTION SLIDER 5.4.7 fullwidth mode -->
+                <div id="rev_slider_14_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7">
+                    <ul>
+                        <!-- SLIDE  -->
+                        <li data-index="rs-32" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <!-- MAIN IMAGE -->
+                            <img src="assets/img/slider/about/about-slide-bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <!-- LAYERS -->
+
+                            <!-- LAYER NR. 1 -->
+                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-1" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['240','262','272','198']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"></div>
+
+                            <!-- LAYER NR. 2 -->
+                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-2" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['361','383','403','325']" data-fontsize="['50','50','35','35']" data-lineheight="['64','64','45','45']" data-width="['881','881','600','400']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 881px; max-width: 881px; white-space: normal; font-size: 50px; line-height: 64px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">We are a team of strategists,
+                                designers, architects, and engineers. </div>
+
+                            <!-- LAYER NR. 3 -->
+                            <a class="tp-caption TM-Button-flat-01 rev-btn " href="page-contact.html" target="_self" id="slide-32-layer-3" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['519','541','531','546']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='' data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(34,34,34);bg:rgb(255,255,255);bs:solid;bw:0 0 0 0;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[17,17,17,17]" data-paddingright="[30,30,30,30]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[30,30,30,30]" style="z-index: 7; white-space: nowrap; letter-spacing: 0.5px;text-transform:uppercase;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-decoration: none;">Get a quote </a>
+                        </li>
+                    </ul>
+                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+                </div>
+            </div><!-- END REVOLUTION SLIDER -->
         </div>
         <!--====================  End of about revslider  ====================-->
     
@@ -102,6 +126,16 @@
         <!--====================  End of project counter area  ====================-->
         
     <!--====================  industry slider area ====================-->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="career-title-area text-center section-space--bottom--50">
+                    <h2 class="title">OTOMATISKAN PROSES BISNIS ANDA SECARA MENYELURUH DENGAN SISTEM ERP TERLENGKAP</h2>
+                    <p class="subtitle">Raih efisiensi proses operasional bisnis Anda hingga terhindar dari adanya human-error yang merugikan dengan beragam fitur utama dari Hash CORE ERP terlengkap </p>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="industry-slider-area">
         <!-- industry slider nav -->
         <div class="industry-slider-nav-area">
@@ -113,7 +147,7 @@
                                 <i class="flaticon-001-worker-1"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Engineering Chemistry
+                                Accounting
                             </div>
                         </div>
                     </div>
@@ -123,7 +157,7 @@
                                 <i class="flaticon-010-tank-1"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Oil & Gas Energy
+                                INVENTORY
                             </div>
                         </div>
                     </div>
@@ -133,7 +167,7 @@
                                 <i class="flaticon-026-mechanism"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Bridge Construction
+                                PROCUREMENT
                             </div>
                         </div>
                     </div>
@@ -143,7 +177,7 @@
                                 <i class="flaticon-040-factory"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Industrial Construction
+                                SUPPLY CHAIN
                             </div>
                         </div>
                     </div>
@@ -153,7 +187,7 @@
                                 <i class="flaticon-041-eco"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Metal Engineering
+                                WAREHOUSE
                             </div>
                         </div>
                     </div>
@@ -163,7 +197,17 @@
                                 <i class="flaticon-008-machine-1"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Automotive Chains
+                                CRM
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-008-machine-1"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                HUMAN RESOURCE
                             </div>
                         </div>
                     </div>
@@ -181,9 +225,11 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Engineering Chemistry</h2>
+                                        <h2 class="title title--left">
+                                            Otomatiskan Pencatatan Transaksi Keuangan
+                                        </h2>
                                     </div>
-                                    <p class="section-title-content"> We harness our vast resources of worldwide engineers, designers, and fabricators to provide the best procurement options.</p>
+                                    <p class="section-title-content"> Monitor kondisi keuangan dan pencatatan transaksi bisnis Anda, mulai dari laporan pendapatan dan pengeluaran, rekonsiliasi bank, hingga jurnal penyesuaian secara otomatis dan akurat. </p>
                                     <a href="service-details.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -194,9 +240,9 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Oil & Gas Energy</h2>
+                                        <h2 class="title title--left"> Optimalkan Pengelolaan Inventaris dan Gudang</h2>
                                     </div>
-                                    <p class="section-title-content"> Many rodents and insects can cause allergies and some have poisonous venom that can hurt, and sometimes kill, people.</p>
+                                    <p class="section-title-content"> Pantau pengelolaan inventaris untuk melacak kondisi dan persediaan barang hingga penentuan reorder point di berbagai cabang dan lokasi dengan lebih mudah dan terorganisir.</p>
                                     <a href="service-details-2.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -207,9 +253,9 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Bridge Construction</h2>
+                                        <h2 class="title title--left"> Sederhanakan Proses Pengajuan Pembelian</h2>
                                     </div>
-                                    <p class="section-title-content"> Bridge construction typically involves methods using relatively discrete elements which are assembled piece by piece.</p>
+                                    <p class="section-title-content"> Sederhanakan proses procurement perusahaan Anda mulai dari purchase request hingga purchase order (pengajuan pembelian) secara otomatis dan terintegrasi dengan Hash CORE ERP terbaik.</p>
                                     <a href="service-details-3.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -220,9 +266,9 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Industrial Construction</h2>
+                                        <h2 class="title title--left"> Permudah Pengelolaan Rantai Pasok</h2>
                                     </div>
-                                    <p class="section-title-content"> Those in the industrial construction business design the view, install the equipment and maintain the titanic structures projects.</p>
+                                    <p class="section-title-content"> Sederhanakan proses manajemen rantai pasok mulai dari proses perolehan bahan baku, proses produksi hingga distribusi ke konsumen akhir dengan lebih praktis dan efisien.</p>
                                     <a href="service-details-4.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -233,9 +279,9 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Metal Engineering</h2>
+                                        <h2 class="title title--left"> Optimalkan Efisiensi Multi-Gudang</h2>
                                     </div>
-                                    <p class="section-title-content"> Chemical materials developed to assist in the production of food, feed, and fiber include scores of herbicides other pesticides,</p>
+                                    <p class="section-title-content"> Atur operasional gudang Anda mulai dari pengaturan tata letak gudang, pemeliharaan stok barang, hingga pengecekan ketersediaan barang yang masuk dan keluar secara real-time.</p>
                                     <a href="service-details-5.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -246,9 +292,22 @@
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
-                                        <h2 class="title title--left"> Automotive Chains</h2>
+                                        <h2 class="title title--left"> Optimalkan Kepuasan dan Loyalitas Pelanggan</h2>
                                     </div>
-                                    <p class="section-title-content"> Industrial engineering is concerned with the development, improvement, and advancement in manufacturing, producing and recycling.</p>
+                                    <p class="section-title-content"> Tingkatkan konversi leads dan kelola ribuan klien hingga mendapatkan informasi lengkap seputar pelanggan hanya dalam hitungan detik dengan satu sistem terpusat dari Hash CORE ERP.</p>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/6.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Otomatiskan Tugas HR dan Administrasi Karyawan</h2>
+                                    </div>
+                                    <p class="section-title-content"> Kelola seluruh data karyawan mulai dari pelacakan kehadiran, pengajuan cuti, gaji, lembur, hingga catatan reimbursement karyawan dalam satu sistem terintegrasi dari Hash CORE ERP.</p>
                                     <a href="service-details-6.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
@@ -316,36 +375,66 @@
             <div class="col-lg-12">
                 <div class="project-counter-wrapper">
                     <!-- project counter-bg -->
-                    <div class="project-counter-bg bg-img" data-bg="assets/img/backgrounds/7.jpg"></div>
+                    <div class="project-counter-bg project-counter-bg-edited bg-img" data-bg="assets/img/backgrounds/7.jpg"></div>
                     <!-- project counter content -->
-                    <div class="project-counter-content">
+                    <div class="project-counter-content project-counter-content-edited">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="career-title-area section-space--bottom--50">
+                                    <h2 class="title" style="color: #fff;">BERGABUNGLAH SEKARANG DENGAN BERBAGAI BISNIS YANG TELAH BERKEMBANG BERSAMA HASH CORE ERP</h2>
+                                    <!-- <p class="subtitle">Raih efisiensi proses operasional bisnis Anda hingga terhindar dari adanya human-error yang merugikan dengan beragam fitur utama dari Hash CORE ERP terlengkap </p> -->
+                                </div>
+                            </div>
+                        </div>
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="project-counter-single-content-wrapper">
                                     <div class="row">
-                                        <div class="col-md-6">
+                                        <div class="col-md-4">
                                             <!-- project counter single content -->
                                             <div class="project-counter-single-content">
                                                 <div class="project-counter-single-content__image">
                                                     <img src="assets/img/icons/tree.png" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="project-counter-single-content__content">
-                                                    <span class="project-counter-single-content__project-count counter">2000</span>
-                                                    <h5 class="project-counter-single-content__project-title">Power Plants</h5>
-                                                    <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p>
+                                                <div class="counter-container" style="white-space: nowrap;">
+                                                    <span class="project-counter-single-content__project-count counter">350</span>
+                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                </div>
+                                                    <h5 class="project-counter-single-content__project-title">perusahaan telah mengintegrasikan bisnisnya dengan Hash Core ERP</h5>
+                                                    <!-- <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p> -->
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-4">
                                             <!-- project counter single content -->
                                             <div class="project-counter-single-content">
                                                 <div class="project-counter-single-content__image">
                                                     <img src="assets/img/icons/home.png" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="project-counter-single-content__content">
-                                                    <span class="project-counter-single-content__project-count counter">3000</span>
-                                                    <h5 class="project-counter-single-content__project-title">Industrial Projects</h5>
-                                                    <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                                <div class="counter-container" style="white-space: nowrap;">
+                                                    <span class="project-counter-single-content__project-count counter">10000</span>
+                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                </div>
+                                                    <h5 class="project-counter-single-content__project-title">karyawan telah merasakan kemudahan menggunakan Hash CORE ERP</h5>
+                                                    <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <!-- project counter single content -->
+                                            <div class="project-counter-single-content">
+                                                <div class="project-counter-single-content__image">
+                                                    <img src="assets/img/icons/home.png" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="project-counter-single-content__content">
+                                                <div class="counter-container" style="white-space: nowrap;">
+                                                    <span class="project-counter-single-content__project-count counter">100000</span>
+                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                </div>
+                                                    <h5 class="project-counter-single-content__project-title">berbagai bentuk laporan dibuat setiap bulannya dengan memanfaatkan Hash CORE ERP</h5>
+                                                    <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
                                                 </div>
                                             </div>
                                         </div>
