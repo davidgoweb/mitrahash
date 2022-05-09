@@ -83,73 +83,64 @@
         </div><!-- END REVOLUTION SLIDER -->
     </div>
     <!--====================  End of hero slider area  ====================-->
-    <!--====================  industry grid area ====================-->
-    <div class="industry-grid-area section-space--inner--120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <!-- section title -->
-                    <div class="section-title-area section-space--bottom--60">
-                        <h2 class="title title--style4 section-space--bottom--30">Delivering Innovation <span class="highlight">Sustainability.</span></h2>
-                        <p class="section-title-content section-title-content--style3">
-                            We are integrated engineering company composed of a group of agile and experienced engineers skilled in different Shinji Aoyama
-                        </p>
-                        <a href="industries-grid.html" class="see-more-link see-more-link--style2">SEE MORE SERVICES <i class="ion-arrow-right-c"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <!-- industry grid wrapper -->
-                    <div class="industry-grid-wrapper">
-                        <div class="row row-35">
-                            <div class="col-sm-6">
-                                <div class="single-industry-grid section-space--bottom--60">
-                                    <div class="single-industry-grid__heading">
-                                        <div class="icon">
-                                            <i class="flaticon-009-storage"></i>
+    
+        <!--====================  project counter area ====================-->
+        <div class="project-counter-area section-space--inner--100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="project-counter-single-content-wrapper">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6">
+                                    <!-- project counter single content -->
+                                    <div class="project-counter-single-content project-counter-single-content--style2">
+                                        <div class="project-counter-single-content__image">
+                                            <img src="assets/img/icons/oil-dark.png" class="img-fluid" alt="">
                                         </div>
-                                        <h3 class="title"> <a href="service-details.html">Automotive Manufacturing</a></h3>
-                                    </div>
-                                    <div class="single-industry-grid__content">
-                                        Industrial engineering is concerned with the developments, improvement, and advancement in manufacturing.
+                                        <div class="project-counter-single-content__content">
+                                            <span class="project-counter-single-content__project-count counter">2000</span>
+                                            <h5 class="project-counter-single-content__project-title">Nationwide Branches</h5>
+                                            <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="single-industry-grid section-space--bottom--60">
-                                    <div class="single-industry-grid__heading">
-                                        <div class="icon">
-                                            <i class="flaticon-040-factory"></i>
+                                <div class="col-lg-3 col-sm-6">
+                                    <!-- project counter single content -->
+                                    <div class="project-counter-single-content project-counter-single-content--style2">
+                                        <div class="project-counter-single-content__image">
+                                            <img src="assets/img/icons/home-dark.png" class="img-fluid" alt="">
                                         </div>
-                                        <h3 class="title"> <a href="service-details-2.html"> Industrial Re-innovations </a></h3>
-                                    </div>
-                                    <div class="single-industry-grid__content">
-                                        Those in the industrial construction business design the landscape view and install the equipment.
+                                        <div class="project-counter-single-content__content">
+                                            <span class="project-counter-single-content__project-count counter">3000</span>
+                                            <h5 class="project-counter-single-content__project-title">Completed Projects</h5>
+                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="single-industry-grid section-space--bottom--60">
-                                    <div class="single-industry-grid__heading">
-                                        <div class="icon">
-                                            <i class="flaticon-010-tank-1"></i>
+                                <div class="col-lg-3 col-sm-6">
+                                    <!-- project counter single content -->
+                                    <div class="project-counter-single-content project-counter-single-content--style2">
+                                        <div class="project-counter-single-content__image">
+                                            <img src="assets/img/icons/tree-dark.png" class="img-fluid" alt="">
                                         </div>
-                                        <h3 class="title"> <a href="service-details-3.html"> Chemical Research Industry </a></h3>
-                                    </div>
-                                    <div class="single-industry-grid__content">
-                                        Chemical materials developed to assist in the production of food, animal feed and micro fiber.
+                                        <div class="project-counter-single-content__content">
+                                            <span class="project-counter-single-content__project-count counter">543</span>
+                                            <h5 class="project-counter-single-content__project-title">Trees Planted</h5>
+                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="single-industry-grid section-space--bottom--60">
-                                    <div class="single-industry-grid__heading">
-                                        <div class="icon">
-                                            <i class="flaticon-007-tools"></i>
+                                <div class="col-lg-3 col-sm-6">
+                                    <!-- project counter single content -->
+                                    <div class="project-counter-single-content project-counter-single-content--style2">
+                                        <div class="project-counter-single-content__image">
+                                            <img src="assets/img/icons/reuse-dark.png" class="img-fluid" alt="">
                                         </div>
-                                        <h3 class="title"> <a href="service-details-4.html"> Mechanical Constructions </a></h3>
-                                    </div>
-                                    <div class="single-industry-grid__content">
-                                        Bridge construction typically involves methods using relatively discrete elements.
+                                        <div class="project-counter-single-content__content">
+                                            <span class="project-counter-single-content__project-count counter">4600</span>
+                                            <h5 class="project-counter-single-content__project-title">Business Retails</h5>
+                                            <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -158,202 +149,157 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!--====================  End of industry grid area  ====================-->
-    <!--====================  testimonial brand slider area ====================-->
-    <div class="testimonial-brand-slider-area section-space--inner--120 grey-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- testimonial slider -->
-                    <div class="testimonial-slider__body-wrapper section-space--bottom--60">
-                        <!-- testimonial slider title -->
-                        <div class="testimonial-slider__title-wrapper section-space--bottom--60">
-                            <h2 class="testimonial-slider__title"><i class="icon icomoon-chat-1"></i> Happy Customers Said</h2>
-                            <div class="testimonial-slider__nav-container">
-                                <div class="ht-swiper-button-prev ht-swiper-button-prev-3 ht-swiper-button-nav"><i class="ion-chevron-left"></i></div>
-                                <div class="ht-swiper-button-next ht-swiper-button-next-3 ht-swiper-button-nav"><i class="ion-chevron-right"></i></div>
+        <!--====================  End of project counter area  ====================-->
+        
+    <!--====================  industry slider area ====================-->
+    <div class="industry-slider-area">
+        <!-- industry slider nav -->
+        <div class="industry-slider-nav-area">
+            <div class="swiper-container industry-slider-nav-container">
+                <div class="swiper-wrapper industry-slider-nav-wrapper">
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-001-worker-1"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                Engineering Chemistry
                             </div>
                         </div>
-
-                        <div class="testimonial-slider__content-area">
-                            <div class="swiper-container testimonial-slider__container">
-                                <div class="swiper-wrapper testimonial-slider__wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-slider__single-item">
-                                            <div class="testimonial-slider__single-item__image">
-                                                <img src="assets/img/testimonial/1.jpg" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="testimonial-slider__single-item__content">
-                                                <h4 class="testimonial-name"> Fannie Moreno <span class="designation">Founder Xcompany</span></h4>
-                                                <div class="rating">
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star-outline"></i>
-                                                </div>
-                                                <p class="text">I would say I highly recommend this to my friends, acquaintances and family members. The attitude and services are always dedicated.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-slider__single-item">
-                                            <div class="testimonial-slider__single-item__image">
-                                                <img src="assets/img/testimonial/2.jpg" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="testimonial-slider__single-item__content">
-                                                <h4 class="testimonial-name">David James <span class="designation">Founder Xcompany</span></h4>
-                                                <div class="rating">
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                </div>
-                                                <p class="text">I would say I highly recommend this to my friends, acquaintances and family members. The attitude and services are always dedicated.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-slider__single-item">
-                                            <div class="testimonial-slider__single-item__image">
-                                                <img src="assets/img/testimonial/3.jpg" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="testimonial-slider__single-item__content">
-                                                <h4 class="testimonial-name"> Bryan Freeman <span class="designation">Founder Xcompany</span></h4>
-                                                <div class="rating">
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star-outline"></i>
-                                                </div>
-                                                <p class="text">Their services are among the best to be honest. Making everything simple and easy, even for beginners and novices like me and my wife.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-slider__single-item">
-                                            <div class="testimonial-slider__single-item__image">
-                                                <img src="assets/img/testimonial/4.jpg" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="testimonial-slider__single-item__content">
-                                                <h4 class="testimonial-name"> Milanda Moses <span class="designation">Founder Xcompany</span></h4>
-                                                <div class="rating">
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star-outline"></i>
-                                                </div>
-                                                <p class="text">Working with @Tractor is like an ever-before experience when people knows what your problem is right when you start to mention it.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-slider__single-item">
-                                            <div class="testimonial-slider__single-item__image">
-                                                <img src="assets/img/testimonial/5.jpg" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="testimonial-slider__single-item__content">
-                                                <h4 class="testimonial-name"> John Doe <span class="designation">Founder Xcompany</span></h4>
-                                                <div class="rating">
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star"></i>
-                                                    <i class="ion-ios-star-outline"></i>
-                                                </div>
-                                                <p class="text">Here at @Tractor center, you have professional staff to look at your business. All solutions are prompt, precise and accurate.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-010-tank-1"></i>
                             </div>
-                            <div class="swiper-pagination swiper-pagination-3"></div>
+                            <div class="industry-single-nav__title">
+                                Oil & Gas Energy
+                            </div>
                         </div>
-
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-026-mechanism"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                Bridge Construction
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-040-factory"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                Industrial Construction
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-041-eco"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                Metal Engineering
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-single-nav">
+                            <div class="industry-single-nav__icon">
+                                <i class="flaticon-008-machine-1"></i>
+                            </div>
+                            <div class="industry-single-nav__title">
+                                Automotive Chains
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- brand logo slider -->
-                    <div class="brand-logo-slider__container-area">
-                        <div class="swiper-container brand-logo-slider__container">
-                            <div class="swiper-wrapper brand-logo-slider__wrapper">
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
+            <div class="ht-swiper-button-prev ht-swiper-button-prev-2 ht-swiper-button-nav d-none d-lg-block"><i class="ion-ios-arrow-left"></i></div>
+            <div class="ht-swiper-button-next ht-swiper-button-next-2 ht-swiper-button-nav d-none d-lg-block"><i class="ion-ios-arrow-forward"></i></div>
+        </div>
+        <!-- industry slider content -->
+        <div class="industry-slider-content-area">
+            <div class="swiper-container industry-slider-content-container">
+                <div class="swiper-wrapper industry-slider-content-wrapper">
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/1.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Engineering Chemistry</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/1b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> We harness our vast resources of worldwide engineers, designers, and fabricators to provide the best procurement options.</p>
+                                    <a href="service-details.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/2.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Oil & Gas Energy</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/2b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> Many rodents and insects can cause allergies and some have poisonous venom that can hurt, and sometimes kill, people.</p>
+                                    <a href="service-details-2.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/3.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Bridge Construction</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/3b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> Bridge construction typically involves methods using relatively discrete elements which are assembled piece by piece.</p>
+                                    <a href="service-details-3.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/4.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Industrial Construction</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/4b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> Those in the industrial construction business design the view, install the equipment and maintain the titanic structures projects.</p>
+                                    <a href="service-details-4.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/5.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/5.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Metal Engineering</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/5b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> Chemical materials developed to assist in the production of food, feed, and fiber include scores of herbicides other pesticides,</p>
+                                    <a href="service-details-5.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/6.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/6.jpg">
+                            <div class="container">
+                                <div class="industry-content-inner">
+                                    <div class="section-title-area">
+                                        <h2 class="title title--left"> Automotive Chains</h2>
                                     </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/6b.png" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/7.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/7b.png" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/8.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/8b.png" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <img src="assets/img/brand-logo/9.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="image-hover">
-                                        <img src="assets/img/brand-logo/9b.png" class="img-fluid" alt="">
-                                    </div>
+                                    <p class="section-title-content"> Industrial engineering is concerned with the development, improvement, and advancement in manufacturing, producing and recycling.</p>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">READ MORE</a>
                                 </div>
                             </div>
                         </div>
@@ -362,43 +308,49 @@
             </div>
         </div>
     </div>
-    <!--====================  End of testimonial brand slider area  ====================-->
-    <!--====================  project grid post area ====================-->
-    <div class="project-grid-post__area section-space--inner--120">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-3 col-md-4">
-                    <!-- section title -->
-                    <div class="section-title-area section-space--bottom--80">
-                        <h2 class="title title--style4 section-space--bottom--50">Extremely intellectual & challenging <span class="highlight">projects.</span></h2>
-                        <a href="#" class="ht-btn ht-btn--default ht-btn--default--style2">OUR MISSION</a>
-                    </div>
-                </div>
-                <div class="col-xl-8 offset-xl-1 col-md-8">
-                    <!-- project grid post wrapper -->
-                    <div class="project-grid-post__wrapper">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="project-grid-post__single">
-                                    <div class="project-grid-post__image">
-                                        <img src="assets/img/projects/post1.jpg" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="project-grid-post__content">
-                                        <h3 class="project-grid-post__title">Industry Effectiveness Solutions</h3>
-                                        <p class="project-grid-post__text">A Company involved in servicing, maintenance and repairs of engines, prime movers…</p>
-                                        <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+    <!--====================  End of industry slider area  ====================-->
+    
+        <!--====================  about feature icon area ====================-->
+        <div class="about-feature-icon-area section-space--inner--120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="about-icon-box-wrapper">
+                            <div class="row align-items-center">
+                                <div class="col-md-4">
+                                    <div class="about-icon-box">
+                                        <div class="about-icon-box__image">
+                                            <img src="assets/img/icons/about-icon1.png" alt="">
+                                        </div>
+                                        <div class="about-icon-box__content">
+                                            <h4 class="title">Mission & Values</h4>
+                                            <p class="content">Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.</p>
+                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="project-grid-post__single">
-                                    <div class="project-grid-post__image">
-                                        <img src="assets/img/projects/post2.jpg" class="img-fluid" alt="">
+                                <div class="col-md-4">
+                                    <div class="about-icon-box">
+                                        <div class="about-icon-box__image">
+                                            <img src="assets/img/icons/about-icon2.png" alt="">
+                                        </div>
+                                        <div class="about-icon-box__content">
+                                            <h4 class="title">Corporate Structure</h4>
+                                            <p class="content">Each of our departments effectively performs their specialized function while collaborating with each other to achieve the corporate's goals.</p>
+                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                        </div>
                                     </div>
-                                    <div class="project-grid-post__content">
-                                        <h3 class="project-grid-post__title">Continuous Improving Approaches</h3>
-                                        <p class="project-grid-post__text">Committed to presenting & interpreting corporate organization, change, and innovation.</p>
-                                        <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="about-icon-box">
+                                        <div class="about-icon-box__image">
+                                            <img src="assets/img/icons/about-icon3.png" alt="">
+                                        </div>
+                                        <div class="about-icon-box__content">
+                                            <h4 class="title">Corporate Accountability</h4>
+                                            <p class="content">We assure that our company will always keep our performance and behavior in line with the government's regulations on environment protection.</p>
+                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -407,170 +359,56 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!--====================  End of project grid post area  ====================-->
-    <!--====================  blog grid area ====================-->
-    <div class="blog-grid-area section-space--inner--120 grey-bg border-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- section title area -->
-                    <div class="section-title-area section-space--bottom--80">
-                        <h2 class="title title--style4">Latest News</h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="blog-title-wrapper-area">
-                        <!-- blog title wrapper -->
-                        <div class="blog-title-wrapper blog-title-wrapper--style3">
-                            <div class="single-blog-title">
-                                <h3 class="post-title">
-                                    <a href="blog-post-image.html">Commercial Ministry to Hike Import Duty on Aluminium</a>
-                                </h3>
-                                <p class="post-date">AUGUST 4, 2019</p>
-                            </div>
-                            <div class="single-blog-title">
-                                <h3 class="post-title">
-                                    <a href="blog-post-image.html">Steels’ Safety: India Appeals Against WTO’s Panel Ruling</a>
-                                </h3>
-                                <p class="post-date">AUGUST 4, 2019</p>
-                            </div>
-                            <div class="single-blog-title">
-                                <h3 class="post-title">
-                                    <a href="blog-post-image.html">Default Interest Rate in Small Loans Now is Lowest</a>
-                                </h3>
-                                <p class="post-date">AUGUST 4, 2019</p>
-                            </div>
-                            <div class="single-blog-title">
-                                <h3 class="post-title">
-                                    <a href="blog-post-image.html">Why Trump is so clumsy about fighting for ‘Free Trade’</a>
-                                </h3>
-                                <p class="post-date">AUGUST 4, 2019</p>
-                            </div>
-                        </div>
-                        <a href="blog-grid-classic.html" class="d-block ht-btn ht-btn--default ht-btn--default--style2">VIEW ALL POSTS</a>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <!-- blog grid-wrapper -->
-                    <div class="blog-grid-wrapper blog-grid-wrapper--style4">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <!-- single-blog-grid -->
-                                <div class="single-grid-overlay-blog-post section-space--bottom--30">
-                                    <div class="single-grid-overlay-blog-post__image">
-                                        <a href="blog-post-image.html">
-                                            <img src="assets/img/blog/1.jpg" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="single-grid-overlay-blog-post__content">
-                                        <div class="post-categories">
-                                            <a href="#">Material Engineering</a>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post-image.html">Commercial Ministry to Hike Import Duty on Aluminium</a></h3>
-                                        <span class="post-date">AUG 04, 2019</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <!-- single-blog-grid -->
-                                <div class="single-grid-overlay-blog-post section-space--bottom--30">
-                                    <div class="single-grid-overlay-blog-post__image">
-                                        <a href="blog-post-image.html">
-                                            <img src="assets/img/blog/2.jpg" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="single-grid-overlay-blog-post__content">
-                                        <div class="post-categories">
-                                            <a href="#">Power & Energy</a>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post-image.html">Steels’ Safety: India Appeals Against WTO’s Panel Ruling</a></h3>
-                                        <span class="post-date">AUG 04, 2019</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <!-- single-blog-grid -->
-                                <div class="single-grid-overlay-blog-post section-space--bottom--30">
-                                    <div class="single-grid-overlay-blog-post__image">
-                                        <a href="blog-post-image.html">
-                                            <img src="assets/img/blog/3.jpg" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="single-grid-overlay-blog-post__content">
-                                        <div class="post-categories">
-                                            <a href="#">Delivery</a>
-                                            <a href="#">Material Engineering</a>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post-image.html">Default Interest Rate in Small Loans Now is Lowest</a></h3>
-                                        <span class="post-date">AUG 04, 2019</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <!-- single-blog-grid -->
-                                <div class="single-grid-overlay-blog-post section-space--bottom--30">
-                                    <div class="single-grid-overlay-blog-post__image">
-                                        <a href="blog-post-image.html">
-                                            <img src="assets/img/blog/4.jpg" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="single-grid-overlay-blog-post__content">
-                                        <div class="post-categories">
-                                            <a href="#">Delivery</a>
-                                            <a href="#">Oil & Gas</a>
-                                        </div>
-                                        <h3 class="post-title"><a href="blog-post-image.html">Commercial Ministry to Hike Import Duty on Aluminium</a></h3>
-                                        <span class="post-date">AUG 04, 2019</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of blog grid area  ====================-->
-    <!--====================  social cta area ====================-->
-    <div class="social-cta-area">
+        <!--====================  End of about feature icon area  ====================-->
+    <!--====================  project counter area ====================-->
+    <div class="project-counter-area">
         <div class="row no-gutters">
-            <div class="col-lg-5 col-xl-4">
-                <div class="twitter-feed-slider__area bg-img" data-bg="assets/img/patterns/2.png">
-                    <div class="twitter-feed-slider__container-area twitter-feed-slider__container-area--style2">
-                        <div class="swiper-container twitter-feed-slider__container">
-                            <div class="swiper-wrapper twitter-feed-slider__wrapper">
-                                <div class="swiper-slide twitter-feed-slider__single twitter-feed-slider__single--style2">
-                                    <div class="tweet">
-                                        <div class="tweet-date">March 19, 2019</div>
-                                        <div class="tweet-text">Hoops for days
-                                            Feature: <a href="#" target="_blank">whodunelson</a> <a href="https://t.co/8Q26cTf0j5" target="_blank">https://t.co/8Q26cTf0j5</a> <a href="https://t.co/iSxZuO8RIh" target="_blank">https://t.co/iSxZuO8RIh</a>
+            <div class="col-lg-12">
+                <div class="project-counter-wrapper">
+                    <!-- project counter-bg -->
+                    <div class="project-counter-bg bg-img" data-bg="assets/img/backgrounds/7.jpg"></div>
+                    <!-- project counter content -->
+                    <div class="project-counter-content">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="project-counter-single-content-wrapper">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <!-- project counter single content -->
+                                            <div class="project-counter-single-content">
+                                                <div class="project-counter-single-content__image">
+                                                    <img src="assets/img/icons/tree.png" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="project-counter-single-content__content">
+                                                    <span class="project-counter-single-content__project-count counter">2000</span>
+                                                    <h5 class="project-counter-single-content__project-title">Power Plants</h5>
+                                                    <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <!-- project counter single content -->
+                                            <div class="project-counter-single-content">
+                                                <div class="project-counter-single-content__image">
+                                                    <img src="assets/img/icons/home.png" class="img-fluid" alt="">
+                                                </div>
+                                                <div class="project-counter-single-content__content">
+                                                    <span class="project-counter-single-content__project-count counter">3000</span>
+                                                    <h5 class="project-counter-single-content__project-title">Industrial Projects</h5>
+                                                    <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="ht-swiper-button-prev ht-swiper-button-prev-5 ht-swiper-button-nav"><i class="ion-ios-arrow-left"></i></div>
-                        <div class="ht-swiper-button-next ht-swiper-button-next-5 ht-swiper-button-nav"><i class="ion-ios-arrow-forward"></i></div>
-                        <span class="twitter-icon"><i class="ion-social-twitter"></i></span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-7 col-xl-8">
-                <div class="cta-blog-area bg-img" data-bg="assets/img/banner/banner8.jpg">
-                    <div class="cta-blog-content">
-                        <h2 class="cta-blog-content__title">360° <span class="highlight">Business Innovation</span></h2>
-                        <p class="cta-blog-content__text">Providing a wide range of services related to the basic line of factory industrial.We are proud to...</p>
-                        <a href="blog-grid-classic.html" class="ht-btn ht-btn--default ht-btn--default--style3 ht-btn--default--style3--alt">READ BLOG</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!--====================  End of social cta area  ====================-->
+    <!--====================  End of project counter area  ====================-->
     <?php include "inc/footer.php"?>
     <!--====================  mobile menu overlay ====================-->
     <div class="mobile-menu-overlay" id="mobile-menu-overlay">
