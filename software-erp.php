@@ -6,69 +6,20 @@
 <body>
     <?php include "inc/header.php"?>
         <!--====================  about revslider ====================-->
-        <div class="about-revslider">
-            <div id="rev_slider_14_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="about-01" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-                <!-- START REVOLUTION SLIDER 5.4.7 fullwidth mode -->
-                <div id="rev_slider_14_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7">
-                    <ul>
-                        <!-- SLIDE  -->
-                        <li data-index="rs-32" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="assets/img/slider/about/about-slide-bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <!-- LAYERS -->
-
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-1" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['240','262','272','198']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"></div>
-
-                            <!-- LAYER NR. 2 -->
-                            <div class="tesAnjay">
-                                <div class="tp-caption   tp-resizeme" id="slide-32-layer-2" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['361','383','403','325']" data-fontsize="['50','50','35','35']" data-lineheight="['64','64','45','45']" data-width="['881','881','600','400']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 881px; max-width: 881px; white-space: normal; font-size: 50px; line-height: 64px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">We are a team of strategists,
-                                    designers, architects, and engineers. </div>
-    
-                                <!-- LAYER NR. 3 -->
-                                <a class="tp-caption TM-Button-flat-01 rev-btn " href="page-contact.html" target="_self" id="slide-32-layer-3" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['519','541','531','546']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='' data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(34,34,34);bg:rgb(255,255,255);bs:solid;bw:0 0 0 0;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[17,17,17,17]" data-paddingright="[30,30,30,30]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[30,30,30,30]" style="z-index: 7; white-space: nowrap; letter-spacing: 0.5px;text-transform:uppercase;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-decoration: none;">Get a quote </a>
-                            </div>
-                        </li>
-                    </ul>
-                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+        <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/Section 1/erp-2.webp"); min-height:70vh; '>
+            <div class="container">
+                <div class="col-md-5 px-0 mt-md-5">
+                <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
+                <p class="lead my-3">Otomatisasi dan efisiensikan proses operasional serta tingkatkan optimasi perusahaan menggunakan software ERP terbaik berteknologi AI.</p>
+                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--dark">SUSTAINABILITY</a></p>
                 </div>
-            </div><!-- END REVOLUTION SLIDER -->
-            <div id="rev_slider_14_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="about-01" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-                <!-- START REVOLUTION SLIDER 5.4.7 fullwidth mode -->
-                <div id="rev_slider_14_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7">
-                    <ul>
-                        <!-- SLIDE  -->
-                        <li data-index="rs-32" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="assets/img/slider/about/about-slide-bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <!-- LAYERS -->
-
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-1" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['240','262','272','198']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;"></div>
-
-                            <!-- LAYER NR. 2 -->
-                            <div class="tp-caption   tp-resizeme" id="slide-32-layer-2" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['361','383','403','325']" data-fontsize="['50','50','35','35']" data-lineheight="['64','64','45','45']" data-width="['881','881','600','400']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 881px; max-width: 881px; white-space: normal; font-size: 50px; line-height: 64px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">We are a team of strategists,
-                                designers, architects, and engineers. </div>
-
-                            <!-- LAYER NR. 3 -->
-                            <a class="tp-caption TM-Button-flat-01 rev-btn " href="page-contact.html" target="_self" id="slide-32-layer-3" data-x="['left','left','left','left']" data-hoffset="['371','75','75','52']" data-y="['top','top','top','top']" data-voffset="['519','541','531','546']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='' data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(34,34,34);bg:rgb(255,255,255);bs:solid;bw:0 0 0 0;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[17,17,17,17]" data-paddingright="[30,30,30,30]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[30,30,30,30]" style="z-index: 7; white-space: nowrap; letter-spacing: 0.5px;text-transform:uppercase;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;text-decoration: none;">Get a quote </a>
-                        </li>
-                    </ul>
-                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-                </div>
-            </div><!-- END REVOLUTION SLIDER -->
+            </div>
         </div>
         <!--====================  End of about revslider  ====================-->
     
         <!--====================  project counter area ====================-->
         <div class="project-counter-area section-space--inner--100">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center mb-5">
-                        <h2>MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
-                        <p>Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
-                    </div>
-                </div>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="project-counter-single-content-wrapper">
@@ -77,10 +28,10 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/icons/oil-dark.png" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/Section 2/Manajemen Data.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
-                                            <span class="project-counter-single-content__project-count counter">2000</span>
+                                            <!-- <span class="project-counter-single-content__project-count counter">2000</span> -->
                                             <h5 class="project-counter-single-content__project-title">MANAJEMEN DATA </h5>
                                             <div class="about-list-wrapper">
                                                 <ul class="about-list">
@@ -97,10 +48,10 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/icons/home-dark.png" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/Section 2/Sistem Terintegrasi.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
-                                            <span class="project-counter-single-content__project-count counter">3000</span>
+                                            <!-- <span class="project-counter-single-content__project-count counter">3000</span> -->
                                             <h5 class="project-counter-single-content__project-title">SISTEM YANG TERINTEGRASI</h5>
                                             <div class="about-list-wrapper">
                                                 <ul class="about-list">
@@ -116,10 +67,10 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/icons/tree-dark.png" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/Section 2/Konfigurasi Software.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
-                                            <span class="project-counter-single-content__project-count counter">543</span>
+                                            <!-- <span class="project-counter-single-content__project-count counter">543</span> -->
                                             <h5 class="project-counter-single-content__project-title">KONFIGURASI SOFTWARE</h5>
                                             <div class="about-list-wrapper">
                                                 <ul class="about-list">
@@ -162,7 +113,7 @@
                                 <i class="flaticon-001-worker-1"></i>
                             </div>
                             <div class="industry-single-nav__title">
-                                Accounting
+                                ACCOUNTING
                             </div>
                         </div>
                     </div>
@@ -336,11 +287,13 @@
     
         <!--====================  about feature icon area ====================-->
         <div class="about-feature-icon-area section-space--inner--120">
-            <div class="container">
+            <div class="container">                
                 <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h2>MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
-                        <p>Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
+                    <div class="col-lg-12">
+                        <div class="career-title-area text-center section-space--bottom--50">
+                            <h2 class="title">MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
+                            <p class="subtitle">Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
+                        </div>
                     </div>
                 </div>
                 <div class="row">

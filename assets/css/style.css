@@ -20676,11 +20676,3 @@ only screen and (max-width: 479px) {
         transform: scale(1.2);
     }
 }
-
-.project-counter-bg.project-counter-bg-edited {
-    flex-basis: 30%;
-}
-
-.project-counter-content.project-counter-content-edited {
-    flex-basis: 70%;
-}

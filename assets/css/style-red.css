@@ -17143,3 +17143,27 @@ a.scroll-top {
 
 }
 
+
+.project-counter-bg.project-counter-bg-edited {
+    flex-basis: 30%;
+}
+
+.project-counter-content.project-counter-content-edited {
+    flex-basis: 70%;
+}
+.cover-title{background-size: cover;}
+.cover-title h1{
+		white-space: normal;
+		font-size: 40px;
+		font-weight: 700;
+		color: rgb(255, 255, 255);
+		letter-spacing: 0px;
+		font-family: Roboto;
+		text-align: inherit;
+		border-width: 0px;
+		margin: 0px;
+		padding: 0px;
+		min-height: 0px;
+		max-height: none;
+		opacity: 1;
+}
