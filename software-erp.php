@@ -110,7 +110,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-001-worker-1"></i>
+                                <img src="assets/img/software-erp/Section 3/Accounting_128x128.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 ACCOUNTING
@@ -120,7 +120,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-010-tank-1"></i>
+                                <img src="assets/img/software-erp/Section 3/Inventory_128x128.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 INVENTORY
@@ -130,7 +130,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-026-mechanism"></i>
+                                <img src="assets/img/software-erp/Section 3/Procurement.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 PROCUREMENT
@@ -140,7 +140,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-040-factory"></i>
+                                <img src="assets/img/software-erp/Section 3/Supply chain.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 SUPPLY CHAIN
@@ -150,7 +150,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-041-eco"></i>
+                                <img src="assets/img/software-erp/Section 3/warehouse - kep.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 WAREHOUSE
@@ -160,7 +160,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-008-machine-1"></i>
+                                <img src="assets/img/software-erp/Section 3/crm - kepin.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 CRM
@@ -170,7 +170,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <i class="flaticon-008-machine-1"></i>
+                                <img src="assets/img/software-erp/Section 3/Human Resources.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 HUMAN RESOURCE

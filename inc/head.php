@@ -41,7 +41,7 @@
 
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/style-red.css">
+    <!-- <link rel="stylesheet" href="assets/css/style-red.css"> -->
 
 
 
