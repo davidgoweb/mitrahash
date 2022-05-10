@@ -6,12 +6,13 @@
 <body>
     <?php include "inc/header.php"?>
         <!--====================  about revslider ====================-->
-        <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/section-1/erp-2.webp"); min-height:70vh; '>
+        <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/section-1/erp-2-1.webp"); min-height:70vh; '>
+            
             <div class="container">
                 <div class="col-md-5 px-0 mt-md-5">
                 <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
                 <p class="lead my-3">Otomatisasi dan efisiensikan proses operasional serta tingkatkan optimasi perusahaan menggunakan software ERP terbaik berteknologi AI.</p>
-                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--dark">SUSTAINABILITY</a></p>
+                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--default">SELENGKAPNYA</a></p>
                 </div>
             </div>
         </div>
@@ -196,72 +197,72 @@
                                         </h2>
                                     </div>
                                     <p class="section-title-content"> Monitor kondisi keuangan dan pencatatan transaksi bisnis Anda, mulai dari laporan pendapatan dan pengeluaran, rekonsiliasi bank, hingga jurnal penyesuaian secara otomatis dan akurat. </p>
-                                    <a href="service-details.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/inventory.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
                                         <h2 class="title title--left"> Optimalkan Pengelolaan Inventaris dan Gudang</h2>
                                     </div>
                                     <p class="section-title-content"> Pantau pengelolaan inventaris untuk melacak kondisi dan persediaan barang hingga penentuan reorder point di berbagai cabang dan lokasi dengan lebih mudah dan terorganisir.</p>
-                                    <a href="service-details-2.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-2.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/procurement.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
                                         <h2 class="title title--left"> Sederhanakan Proses Pengajuan Pembelian</h2>
                                     </div>
                                     <p class="section-title-content"> Sederhanakan proses procurement perusahaan Anda mulai dari purchase request hingga purchase order (pengajuan pembelian) secara otomatis dan terintegrasi dengan Hash CORE ERP terbaik.</p>
-                                    <a href="service-details-3.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-3.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/supply-chain.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
                                         <h2 class="title title--left"> Permudah Pengelolaan Rantai Pasok</h2>
                                     </div>
                                     <p class="section-title-content"> Sederhanakan proses manajemen rantai pasok mulai dari proses perolehan bahan baku, proses produksi hingga distribusi ke konsumen akhir dengan lebih praktis dan efisien.</p>
-                                    <a href="service-details-4.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-4.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/warehouse.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
                                         <h2 class="title title--left"> Optimalkan Efisiensi Multi-Gudang</h2>
                                     </div>
                                     <p class="section-title-content"> Atur operasional gudang Anda mulai dari pengaturan tata letak gudang, pemeliharaan stok barang, hingga pengecekan ketersediaan barang yang masuk dan keluar secara real-time.</p>
-                                    <a href="service-details-5.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-5.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/crm.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
                                         <h2 class="title title--left"> Optimalkan Kepuasan dan Loyalitas Pelanggan</h2>
                                     </div>
                                     <p class="section-title-content"> Tingkatkan konversi leads dan kelola ribuan klien hingga mendapatkan informasi lengkap seputar pelanggan hanya dalam hitungan detik dengan satu sistem terpusat dari Hash CORE ERP.</p>
-                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +275,7 @@
                                         <h2 class="title title--left"> Otomatiskan Tugas HR dan Administrasi Karyawan</h2>
                                     </div>
                                     <p class="section-title-content"> Kelola seluruh data karyawan mulai dari pelacakan kehadiran, pengajuan cuti, gaji, lembur, hingga catatan reimbursement karyawan dalam satu sistem terintegrasi dari Hash CORE ERP.</p>
-                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">READ MORE</a>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
@@ -300,51 +301,51 @@
                     <div class="col-lg-12">
                         <div class="about-icon-box-wrapper">
                             <div class="row align-items-center">
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
-                                            <img src="assets/img/icons/about-icon1.png" height="98px" alt="">
+                                            <img src="assets/img/software-erp/section-4/Otomatisasi Proses Bisnis.svg" height="98px" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
                                             <h4 class="title">Otomatisasi Proses Bisnis</h4>
                                             <p class="content">Segera beralih ke Hash CORE ERP tercanggih untuk mengotomatisasi pekerjaan manual yang memakan waktu dan tenaga dalam proses bisnis Anda menjadi lebih efisien.</p>
-                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                            <!-- <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
-                                            <img src="assets/img/icons/about-icon2.png" alt="">
+                                            <img src="assets/img/software-erp/section-4/Kemudahan Akses Data.svg" height="98px" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
                                             <h4 class="title">Kemudahan Akses Data</h4>
                                             <p class="content">Hash CORE ERP cloud terbaik dapat memudahkan Anda dalam mengakses data perusahaan secara cepat kapanpun dan dimanapun Anda menginginkannya.</p>
-                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                            <!-- <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
-                                            <img src="assets/img/icons/about-icon3.png" alt="">
+                                            <img src="assets/img/software-erp/section-4/Sesuai Kebutuhan Perusahaan.svg" height="98px" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
                                             <h4 class="title">Sesuai Kebutuhan Perusahaan</h4>
                                             <p class="content">Tingkatkan efisiensi dengan sistem tercerdas dari Hash CORE ERP yang dapat dikustomisasi sesuai dengan kebutuhan unik dalam perusahaan Anda.</p>
-                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                            <!-- <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="about-icon-box">
                                         <div class="about-icon-box__image">
-                                            <img src="assets/img/icons/about-icon3.png" alt="">
+                                            <img src="assets/img/software-erp/section-4/Buat Keputusan Akurat.svg" height="98px" alt="">
                                         </div>
                                         <div class="about-icon-box__content">
                                             <h4 class="title">Buat Keputusan Akurat</h4>
                                             <p class="content">Wujudkan keputusan bisnis yang cermat dengan bantuan Hash CORE ERP mutakhir untuk menyediakan data secara real-time dan akurat demi kesuksesan perusahaan Anda.</p>
-                                            <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a>
+                                            <!-- <a href="#" class="see-more-link">SEE MORE <i class="ion-arrow-right-c"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -361,13 +362,13 @@
             <div class="col-lg-12">
                 <div class="project-counter-wrapper">
                     <!-- project counter-bg -->
-                    <div class="project-counter-bg project-counter-bg-edited bg-img" data-bg="assets/img/backgrounds/7.jpg"></div>
+                    <div class="project-counter-bg project-counter-bg-edited bg-img" data-bg="assets/img/software-erp/section-5/images/sect-5.webp"></div>
                     <!-- project counter content -->
                     <div class="project-counter-content project-counter-content-edited">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="career-title-area section-space--bottom--50">
-                                    <h2 class="title" style="color: #fff;">BERGABUNGLAH SEKARANG DENGAN BERBAGAI BISNIS YANG TELAH BERKEMBANG BERSAMA HASH CORE ERP</h2>
+                                    <h2 class="title" style="color: #fff;">BERBAGAI BISNIS TELAH BERKEMBANG BERSAMA HASH CORE ERP</h2>
                                     <!-- <p class="subtitle">Raih efisiensi proses operasional bisnis Anda hingga terhindar dari adanya human-error yang merugikan dengan beragam fitur utama dari Hash CORE ERP terlengkap </p> -->
                                 </div>
                             </div>
@@ -375,19 +376,19 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="project-counter-single-content-wrapper">
-                                    <div class="row">
+                                    <div class="row icon-white">
                                         <div class="col-md-4">
                                             <!-- project counter single content -->
                                             <div class="project-counter-single-content">
                                                 <div class="project-counter-single-content__image">
-                                                    <img src="assets/img/icons/tree.png" class="img-fluid" alt="">
+                                                    <img src="assets/img/software-erp/section-5/350+ Perusahaan.svg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
                                                     <span class="project-counter-single-content__project-count counter">350</span>
-                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
                                                 </div>
-                                                    <h5 class="project-counter-single-content__project-title">perusahaan telah mengintegrasikan bisnisnya dengan Hash Core ERP</h5>
+                                                    <p class="project-counter-single-content__project-title">Perusahaan telah mengintegrasikan bisnisnya dengan Hash Core ERP</p>
                                                     <!-- <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p> -->
                                                 </div>
                                             </div>
@@ -396,14 +397,14 @@
                                             <!-- project counter single content -->
                                             <div class="project-counter-single-content">
                                                 <div class="project-counter-single-content__image">
-                                                    <img src="assets/img/icons/home.png" class="img-fluid" alt="">
+                                                    <img src="assets/img/software-erp/section-5/10.000+ karyawan.svg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
-                                                    <span class="project-counter-single-content__project-count counter">10000</span>
-                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span class="project-counter-single-content__project-count counter">10.000</span>
+                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
                                                 </div>
-                                                    <h5 class="project-counter-single-content__project-title">karyawan telah merasakan kemudahan menggunakan Hash CORE ERP</h5>
+                                                    <p class="project-counter-single-content__project-title">Karyawan telah merasakan kemudahan menggunakan Hash CORE ERP</p>
                                                     <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
                                                 </div>
                                             </div>
@@ -412,14 +413,14 @@
                                             <!-- project counter single content -->
                                             <div class="project-counter-single-content">
                                                 <div class="project-counter-single-content__image">
-                                                    <img src="assets/img/icons/home.png" class="img-fluid" alt="">
+                                                    <img src="assets/img/software-erp/section-5/100.000+ Berbagai Bentuk Laporan.svg" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
-                                                    <span class="project-counter-single-content__project-count counter">100000</span>
-                                                    <span style="font-size: 3.75rem;line-height: 1;color: #ffc246;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span class="project-counter-single-content__project-count counter">100.000</span>
+                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
                                                 </div>
-                                                    <h5 class="project-counter-single-content__project-title">berbagai bentuk laporan dibuat setiap bulannya dengan memanfaatkan Hash CORE ERP</h5>
+                                                    <p class="project-counter-single-content__project-title">Berbagai bentuk laporan dibuat setiap bulannya dengan memanfaatkan Hash CORE ERP</p>
                                                     <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
                                                 </div>
                                             </div>
