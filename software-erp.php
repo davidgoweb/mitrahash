@@ -6,7 +6,7 @@
 <body>
     <?php include "inc/header.php"?>
         <!--====================  about revslider ====================-->
-        <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/Section 1/erp-2.webp"); min-height:70vh; '>
+        <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/section-1/erp-2.webp"); min-height:70vh; '>
             <div class="container">
                 <div class="col-md-5 px-0 mt-md-5">
                 <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
@@ -28,7 +28,7 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/software-erp/Section 2/Manajemen Data.svg" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/section-2/Manajemen Data.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <!-- <span class="project-counter-single-content__project-count counter">2000</span> -->
@@ -48,7 +48,7 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/software-erp/Section 2/Sistem Terintegrasi.svg" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/section-2/Sistem Terintegrasi.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <!-- <span class="project-counter-single-content__project-count counter">3000</span> -->
@@ -67,7 +67,7 @@
                                     <!-- project counter single content -->
                                     <div class="project-counter-single-content project-counter-single-content--style2">
                                         <div class="project-counter-single-content__image">
-                                            <img src="assets/img/software-erp/Section 2/Konfigurasi Software.svg" class="img-fluid" alt="">
+                                            <img src="assets/img/software-erp/section-2/Konfigurasi Software.svg" class="img-fluid" alt="">
                                         </div>
                                         <div class="project-counter-single-content__content">
                                             <!-- <span class="project-counter-single-content__project-count counter">543</span> -->
@@ -110,7 +110,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/Accounting_128x128.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/Accounting_128x128.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 ACCOUNTING
@@ -120,7 +120,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/Inventory_128x128.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/Inventory_128x128.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 INVENTORY
@@ -130,7 +130,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/Procurement.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/Procurement.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 PROCUREMENT
@@ -140,7 +140,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/Supply chain.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/Supply chain.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 SUPPLY CHAIN
@@ -150,7 +150,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/warehouse - kep.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/warehouse - kep.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 WAREHOUSE
@@ -160,7 +160,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/crm - kepin.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/crm - kepin.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 CRM
@@ -170,7 +170,7 @@
                     <div class="swiper-slide">
                         <div class="industry-single-nav">
                             <div class="industry-single-nav__icon">
-                                <img src="assets/img/software-erp/Section 3/Human Resources.svg" class="img-fluid" alt="">
+                                <img src="assets/img/software-erp/section-3/Human Resources.svg" class="img-fluid" alt="">
                             </div>
                             <div class="industry-single-nav__title">
                                 HUMAN RESOURCE
@@ -187,7 +187,7 @@
             <div class="swiper-container industry-slider-content-container">
                 <div class="swiper-wrapper industry-slider-content-wrapper">
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/1.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -202,7 +202,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/2.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -215,7 +215,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/3.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -228,7 +228,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/4.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -241,7 +241,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/5.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -254,7 +254,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/6.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
@@ -267,7 +267,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/backgrounds/6.jpg">
+                        <div class="industry-slider-content-single bg-img" data-bg="assets/img/software-erp/section-3/Images/accounting.webp">
                             <div class="container">
                                 <div class="industry-content-inner">
                                     <div class="section-title-area">
