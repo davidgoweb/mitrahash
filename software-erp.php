@@ -2,7 +2,14 @@
 <html class="no-js" lang="zxx">
 
 <?php include "inc/head.php"?>
-
+<!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "7085037",
+	formId: "746f3c74-eb3c-47ab-afec-0f283f94d908"
+});
+</script> -->
 <body>
     <?php include "inc/header.php"?>
         <!--====================  about revslider ====================-->
@@ -292,7 +299,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="career-title-area text-center section-space--bottom--50">
-                            <h2 class="title">MANFAAT TERBAIK DARI HASH CORE ERP BAGI KEMUDAHAN BISNIS ANDA</h2>
+                            <h2 class="title">KEMUDAHAN BERBISNIS DENGAN HASH CORE ERP</h2>
                             <p class="subtitle">Nikmati berbagai manfaat unggulan secara langsung dari implementasi Hash CORE ERP untuk bisnis Anda, seperti penyederhanaan proses bisnis, peningkatan efisiensi, dan lainnya.</p>
                         </div>
                     </div>
