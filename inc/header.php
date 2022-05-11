@@ -60,7 +60,7 @@
                             <!-- logo -->
                             <div class="logo">
                                 <a href="index-7.html">
-                                    <img src="assets/img/logo/logo-dark.png" class="img-fluid" alt="">
+                                    <img src="assets/img/logo-1.png" class="img-fluid" alt="">
                                 </a>
                             </div>
                             <div class="header-navigation-wrapper header-navigation-wrapper--style4">
@@ -162,7 +162,7 @@
                             <!-- logo -->
                             <div class="logo">
                                 <a href="index-7.html">
-                                    <img src="assets/img/logo/logo-dark.png" class="img-fluid" alt="">
+                                    <img src="assets/img/logo-1.png" class="img-fluid" alt="">
                                 </a>
                             </div>
                         </div>

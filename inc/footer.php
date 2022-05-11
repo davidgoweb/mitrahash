@@ -10,7 +10,7 @@
                                 <div class="footer-intro-wrapper">
                                     <div class="footer-logo">
                                         <a href="#">
-                                            <img src="assets/img/logo/logo-light.png" class="img-fluid" alt="">
+                                            <img src="assets/img/logo/logo-1.png" class="img-fluid" alt="">
                                         </a>
                                     </div>
                                     <div class="footer-desc">

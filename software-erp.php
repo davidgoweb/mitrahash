@@ -15,8 +15,8 @@
         <!--====================  about revslider ====================-->
         <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/section-1/erp-2-1.webp"); min-height:70vh; '>
             
-            <div class="container">
-                <div class="col-md-5 px-0 mt-md-5">
+            <div class="container ">
+                <div class="col-md-5 px-0 mt-md-5 pt-5">
                 <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
                 <p class="lead my-3">Otomatisasi dan efisiensikan proses operasional serta tingkatkan optimasi perusahaan menggunakan software ERP terbaik berteknologi AI.</p>
                 <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--default">SELENGKAPNYA</a></p>
@@ -452,7 +452,7 @@
                         <!-- logo -->
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/img/logo/logo-dark.png" class="img-fluid" alt="">
+                                <img src="assets/img/logo-1.png" class="img-fluid" alt="">
                             </a>
                         </div>
                     </div>
