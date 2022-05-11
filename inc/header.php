@@ -60,7 +60,7 @@
                             <!-- logo -->
                             <div class="logo">
                                 <a href="index-7.html">
-                                    <img src="assets/img/logo-1.png" class="img-fluid" alt="">
+                                    <img src="assets/img/logomitrahash-02.png" class="img-fluid" alt="">
                                 </a>
                             </div>
                             <div class="header-navigation-wrapper header-navigation-wrapper--style4">
@@ -73,77 +73,14 @@
                                     </div>
                                 </div>
                                 <div class="header-navigation-wrapper--style3__right">
-                                <div class="header-search--style4">
-                                        <div class="header-navigation__icon__search">
-                                            <a href="javascript:void(0)" id="search-overlay-trigger">
-                                                <i class="ion-ios-search-strong"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="cart-wrapper--style3">
-                                        <div class="header-navigation__icon__cart header-navigation__icon__cart--mobile-off" data-count="3">
-                                            <a href="javascript:void(0)"> <i class="ion-bag" id="minicart-trigger"></i> </a>
-
-                                            <!-- minicart -->
-                                            <div class="minicart-box" id="minicart-box">
-                                                <div class="minicart-product-wrapper">
-                                                    <div class="single-minicart-product">
-                                                        <div class="single-minicart-product__image">
-                                                            <a href="shop-product.html">
-                                                                <img src="assets/img/products/1-mini.jpg" class="img-fluid" alt="">
-                                                            </a>
-                                                        </div>
-                                                        <div class="single-minicart-product__content">
-                                                            <a href="#" class="close-icon"><i
-                                                                class="ion-android-close"></i></a>
-                                                            <a href="shop-product.html" class="title">Fiberglass
-                                                                Stepladder</a>
-                                                            <p class="quantity">1 x <span class="price">$ 80.00</span></p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="single-minicart-product">
-                                                        <div class="single-minicart-product__image">
-                                                            <a href="shop-product.html">
-                                                                <img src="assets/img/products/2-mini.jpg" class="img-fluid" alt="">
-                                                            </a>
-                                                        </div>
-                                                        <div class="single-minicart-product__content">
-                                                            <a href="#" class="close-icon"><i
-                                                                class="ion-android-close"></i></a>
-                                                            <a href="shop-product.html" class="title">Lithium Ion XR
-                                                                Brushless Blower</a>
-                                                            <p class="quantity">1 x <span class="price">$ 90.00</span></p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="single-minicart-product">
-                                                        <div class="single-minicart-product__image">
-                                                            <a href="shop-product.html">
-                                                                <img src="assets/img/products/3-mini.jpg" class="img-fluid" alt="">
-                                                            </a>
-                                                        </div>
-                                                        <div class="single-minicart-product__content">
-                                                            <a href="#" class="close-icon"><i
-                                                                class="ion-android-close"></i></a>
-                                                            <a href="shop-product.html" class="title">Small Trigger
-                                                                Clamp</a>
-                                                            <p class="quantity">1 x <span class="price">$ 70.00</span></p>
-                                                        </div>
-                                                    </div>
-
-
-                                                </div>
-                                                <p class="minicart-calculations">Total: <span class="value">$1100.00</span>
-                                                </p>
-                                                <div class="minicart-buttons">
-                                                    <a href="shop-cart.html" class="minicart-link minicart-link--cart">VIEW
-                                                        CART</a>
-                                                    <a href="shop-checkout.html" class="minicart-link minicart-link--checkout">CHECKOUT</a>
-                                                </div>
-                                            </div>
+                                    <div class="header-search--style4" style="width:unset">
+                                        <div class="header-navigation__icon__search text-right px-md-3" style='line-height:23px'>
+                                            <a href="https://wa.me/+6287888000015" style='font-size:17px' target="_blank" rel="noopener"> +62 878-8800-0015</a><br>
+                                            <a href="mailto:halo@mitrahash.com" style='font-size:17px' target="_blank" rel="noopener"> halo@mitrahash.com</a>
                                         </div>
                                     </div>
                                     <div class="get-quote-button-wrapper">
-                                        <a href="#">HUBUNGI KAMI <i class="ion-arrow-right-c"></i></a>
+                                        <a href="#" class='ctapopup'  data-toggle="modal" data-target="#exampleModal">HUBUNGI KAMI <i class="ion-arrow-right-c"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -162,22 +99,22 @@
                             <!-- logo -->
                             <div class="logo">
                                 <a href="index-7.html">
-                                    <img src="assets/img/logo-1.png" class="img-fluid" alt="">
+                                    <img src="assets/img/logomitrahash-02.png" class="img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-6 col-3">
                             <!-- mobile menu content -->
                             <div class="mobile-menu-content">
-                                <div class="social-links">
+                                <!-- <div class="social-links">
                                     <ul>
-                                        <li><a href="//facebook.com" data-tippy="Facebook" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-facebook"></i></a></li>
+                                        <li><a href="//facebook.com" data-tippy="Facebook" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-whatsapp"></i></a></li>
                                         <li><a href="//twitter.com" data-tippy="Twitter" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-twitter"></i></a></li>
                                         <li><a href="//vimeo.com" data-tippy="Vimeo" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-vimeo"></i></a></li>
                                         <li><a href="//linkedin.com" data-tippy="Linkedin" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-linkedin"></i></a></li>
                                         <li><a href="//skype.com" data-tippy="Skype" data-tippy-inertia="false" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder__yellow" data-tippy-placement="bottom"><i class="ion-social-skype"></i></a></li>
                                     </ul>
-                                </div>
+                                </div> -->
                                 <div class="mobile-navigation-icon" id="mobile-menu-trigger">
                                     <i></i>
                                 </div>

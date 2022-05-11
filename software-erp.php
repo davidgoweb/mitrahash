@@ -2,29 +2,19 @@
 <html class="no-js" lang="zxx">
 
 <?php include "inc/head.php"?>
-<!-- <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "7085037",
-	formId: "746f3c74-eb3c-47ab-afec-0f283f94d908"
-});
-</script> -->
 <body>
     <?php include "inc/header.php"?>
         <!--====================  about revslider ====================-->
         <div class="pt-md-5 p-md-5 mb-4 text-white cover-title" style='background:url("assets/img/software-erp/section-1/erp-2-1.webp"); min-height:70vh; '>
-            
             <div class="container ">
                 <div class="col-md-5 px-0 mt-md-5 pt-5">
                 <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
                 <p class="lead my-3">Otomatisasi dan efisiensikan proses operasional serta tingkatkan optimasi perusahaan menggunakan software ERP terbaik berteknologi AI.</p>
-                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--default">SELENGKAPNYA</a></p>
+                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--default" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a></p>
                 </div>
             </div>
         </div>
         <!--====================  End of about revslider  ====================-->
-    
         <!--====================  project counter area ====================-->
         <div class="project-counter-area section-space--inner--100">
             <div class="container">
@@ -204,7 +194,7 @@
                                         </h2>
                                     </div>
                                     <p class="section-title-content"> Monitor kondisi keuangan dan pencatatan transaksi bisnis Anda, mulai dari laporan pendapatan dan pengeluaran, rekonsiliasi bank, hingga jurnal penyesuaian secara otomatis dan akurat. </p>
-                                    <a href="service-details.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -217,7 +207,7 @@
                                         <h2 class="title title--left"> Optimalkan Pengelolaan Inventaris dan Gudang</h2>
                                     </div>
                                     <p class="section-title-content"> Pantau pengelolaan inventaris untuk melacak kondisi dan persediaan barang hingga penentuan reorder point di berbagai cabang dan lokasi dengan lebih mudah dan terorganisir.</p>
-                                    <a href="service-details-2.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-2.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -230,7 +220,7 @@
                                         <h2 class="title title--left"> Sederhanakan Proses Pengajuan Pembelian</h2>
                                     </div>
                                     <p class="section-title-content"> Sederhanakan proses procurement perusahaan Anda mulai dari purchase request hingga purchase order (pengajuan pembelian) secara otomatis dan terintegrasi dengan Hash CORE ERP terbaik.</p>
-                                    <a href="service-details-3.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-3.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -243,7 +233,7 @@
                                         <h2 class="title title--left"> Permudah Pengelolaan Rantai Pasok</h2>
                                     </div>
                                     <p class="section-title-content"> Sederhanakan proses manajemen rantai pasok mulai dari proses perolehan bahan baku, proses produksi hingga distribusi ke konsumen akhir dengan lebih praktis dan efisien.</p>
-                                    <a href="service-details-4.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-4.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -256,7 +246,7 @@
                                         <h2 class="title title--left"> Optimalkan Efisiensi Multi-Gudang</h2>
                                     </div>
                                     <p class="section-title-content"> Atur operasional gudang Anda mulai dari pengaturan tata letak gudang, pemeliharaan stok barang, hingga pengecekan ketersediaan barang yang masuk dan keluar secara real-time.</p>
-                                    <a href="service-details-5.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-5.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -269,7 +259,7 @@
                                         <h2 class="title title--left"> Optimalkan Kepuasan dan Loyalitas Pelanggan</h2>
                                     </div>
                                     <p class="section-title-content"> Tingkatkan konversi leads dan kelola ribuan klien hingga mendapatkan informasi lengkap seputar pelanggan hanya dalam hitungan detik dengan satu sistem terpusat dari Hash CORE ERP.</p>
-                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -282,7 +272,7 @@
                                         <h2 class="title title--left"> Otomatiskan Tugas HR dan Administrasi Karyawan</h2>
                                     </div>
                                     <p class="section-title-content"> Kelola seluruh data karyawan mulai dari pelacakan kehadiran, pengajuan cuti, gaji, lembur, hingga catatan reimbursement karyawan dalam satu sistem terintegrasi dari Hash CORE ERP.</p>
-                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark">Selengkapnya</a>
+                                    <a href="service-details-6.html" class="ht-btn ht-btn--dark" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a>
                                 </div>
                             </div>
                         </div>
@@ -442,6 +432,30 @@
         </div>
     </div>
     <!--====================  End of project counter area  ====================-->
+
+
+    <!--====================  End of project counter area  ====================-->
+    <div class="contact-section">
+        <div class="row mx-0 justify-content-center">
+            <div class="col-md-6 pt-3 px-3 px-md-5">
+                <div class="career-title-area text-center section-space--bottom--50 ">
+                    <h2 class="title mt-md-5">DAPATKAN AKSES SOFTWARE HASH CORE ERP SEKARANG!</h2>
+                    <p class="subtitle">Maksimalkan efisiensi pengelolaan bisnis terbaik dengan Hash Core ERP.</p>
+                </div>
+                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+                <script>
+                    hbspt.forms.create({
+                        region: "na1",
+                        portalId: "7085037",
+                        formId: "746f3c74-eb3c-47ab-afec-0f283f94d908"
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+    
+    <!--====================  End of project counter area  ====================-->
+
     <?php include "inc/footer.php"?>
     <!--====================  mobile menu overlay ====================-->
     <div class="mobile-menu-overlay" id="mobile-menu-overlay">
@@ -471,183 +485,10 @@
             <nav class="offcanvas-navigation">
                 <ul>
                     <li class="has-children">
-                        <a href="#">Home</a>
-                        <ul class="sub-menu">
-                            <li><a href="index.html">Main Homepage</a></li>
-                            <li><a href="index-2.html">Essential 1 Homepage</a></li>
-                            <li><a href="index-3.html">Simple Homepage</a></li>
-                            <li><a href="index-4.html">Header Left Homepage</a></li>
-                            <li><a href="index-5.html">Homepage 11</a></li>
-                            <li><a href="index-6.html">Classic Homepage</a></li>
-                            <li><a href="index-7.html">Essential 2 Homepage</a></li>
-                            <li><a href="index-8.html">Multi Card Homepage</a></li>
-                            <li><a href="index-9.html">Modern Homepage</a></li>
-                            <li><a href="index-10.html">Bold & Strong Homepage</a></li>
-                            <li><a href="index-11.html">Box Homepage</a></li>
-                            <li><a href="index-12.html">Home Demo 12</a></li>
-                            <li><a href="index-13.html">Home Demo 13</a></li>
-                            <li><a href="index-14.html">Home Demo 14</a></li>
-                        </ul>
+                        <a href="https://wa.me/+6287888000015" style="font-size:17px" target="_blank" rel="noopener"> +62 878-8800-0015</a>
                     </li>
                     <li class="has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li class="has-children">
-                                <a href="#">Page list 01</a>
-                                <ul class="sub-menu">
-                                    <li><a href="page-about.html">About 01</a></li>
-                                    <li><a href="page-about-2.html">About 02</a></li>
-                                    <li><a href="page-contact.html">Contact Us 01</a></li>
-                                    <li><a href="page-contact-2.html">Contact Us 02</a></li>
-                                    <li><a href="404.html">Not Found</a></li>
-                                    <li><a href="site-maintenance.html">Under Construction</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Page list 02</a>
-                                <ul class="sub-menu">
-                                    <li><a href="page-history.html">History</a></li>
-                                    <li><a href="page-leadership.html">Leadership</a></li>
-                                    <li><a href="page-partner.html">Partners & Clients</a></li>
-                                    <li><a href="page-faq.html">FAQ's</a></li>
-                                    <li><a href="page-award.html">Award & Recognition</a></li>
-                                    <li><a href="page-career.html">Career</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Page list 03</a>
-                                <ul class="sub-menu">
-                                    <li><a href="icon-flat.html">Icon Flat</a></li>
-                                    <li><a href="icon-tractor.html">Icon Tractor</a></li>
-                                    <li><a href="icon-icomoon.html">Icon Icomoon</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="has-children">
-                        <a href="javascript:void(0)">Industries</a>
-                        <ul class="sub-menu">
-                            <li class="has-children">
-                                <a href="#">Grid</a>
-                                <ul class="sub-menu">
-                                    <li><a href="industries-grid.html">Industries Grid 1</a></li>
-                                    <li><a href="industries-grid-2.html">Industries Grid 2</a></li>
-                                    <li><a href="industries-grid-3.html">Industries Grid 3</a></li>
-                                    <li><a href="industries-grid-4.html">Industries Grid 4</a></li>
-                                    <li><a href="industries-grid-5.html">Industries Grid 5</a></li>
-                                    <li><a href="industries-grid-6.html">Industries Grid 6</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Carousel</a>
-                                <ul class="sub-menu">
-                                    <li><a href="industries-carousel.html">Industries Carousel 1</a></li>
-                                    <li><a href="industries-carousel-2.html">Industries Carousel 2</a></li>
-                                    <li><a href="industries-carousel-3.html">Industries Carousel 3</a></li>
-                                    <li><a href="industries-carousel-4.html">Industries Carousel 4</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="has-children">
-                        <a href="javascript:void(0)">Case Studies</a>
-                        <ul class="sub-menu">
-                            <li><a href="case-studies-grid-caption.html">Case Studies Grid Caption 01</a></li>
-                            <li><a href="case-studies-grid-caption-2.html">Case Studies Grid Caption 02</a></li>
-                            <li><a href="case-studies-grid.html">Case Studies Grid</a></li>
-                            <li><a href="case-study-single-slider.html">Single Case Study Slider</a></li>
-                            <li><a href="case-study-single-gallery.html">Single Case Study Gallery</a></li>
-                            <li class="has-children">
-                                <a href="#">Submenu Level One</a>
-                                <ul class="sub-menu">
-                                    <li class="has-children">
-                                        <a href="#">Submenu Level Two</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Submenu Level One</a>
-                                <ul class="sub-menu">
-                                    <li class="has-children">
-                                        <a href="#">Submenu Level Two</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                            <li><a href="#">Submenu Level Three</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                    <li><a href="#">Submenu Level Two</a></li>
-                                </ul>
-                            </li>
-
-                        </ul>
-                    </li>
-                    <li class="has-children">
-                        <a href="javascript:void(0)">Blog</a>
-                        <ul class="sub-menu">
-                            <li class="has-children">
-                                <a href="#">Blog layouts 01</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-list.html">Blog List</a></li>
-                                    <li><a href="blog-metro.html">Blog Metro</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog layouts 02</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-grid-classic.html">Blog Grid Classic 1</a></li>
-                                    <li><a href="blog-grid-classic-2.html">Blog Grid Classic 2</a></li>
-                                    <li><a href="blog-grid-classic-3.html">Blog Grid Classic 3</a></li>
-                                    <li><a href="blog-grid-classic-4.html">Blog Grid Classic 4</a></li>
-                                    <li><a href="blog-grid-classic-5.html">Blog Grid Classic 5</a></li>
-                                    <li><a href="blog-grid-simple.html">Blog Grid Simple</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog layouts 03</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-carousel.html">Blog Carousel</a></li>
-                                    <li><a href="blog-carousel-2.html">Blog Carousel 2</a></li>
-                                    <li><a href="blog-carousel-3.html">Blog Carousel 3</a></li>
-                                    <li><a href="blog-carousel-4.html">Blog Carousel 4</a></li>
-                                    <li><a href="blog-carousel-5.html">Blog Carousel 5</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Single Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-post-image.html">Image format</a></li>
-                                    <li><a href="blog-post-gallery.html">Gallery format</a></li>
-                                    <li><a href="blog-post-video.html">Video format</a></li>
-                                    <li><a href="blog-post-audio.html">Audio format</a></li>
-                                    <li><a href="blog-post-link.html">Link format</a></li>
-                                    <li><a href="blog-post-quote.html">Quote format</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="has-children">
-                        <a href="javascript:void(0)">Shop</a>
-                        <ul class="sub-menu">
-                            <li><a href="shop.html">Shop Page</a></li>
-                            <li><a href="shop-product.html">Single Product</a></li>
-                            <li><a href="shop-cart.html">Cart</a></li>
-                            <li><a href="shop-wishlist.html">Wishlist</a></li>
-                            <li><a href="shop-checkout.html">Checkout</a></li>
-                            <li><a href="shop-my-account.html">My Account</a></li>
-                        </ul>
+                        <a href="mailto:halo@mitrahash.com" style="font-size:17px" target="_blank" rel="noopener"> halo@mitrahash.com</a>
                     </li>
                 </ul>
             </nav>
@@ -943,7 +784,31 @@
         });
     </script>
 
+    <div class="modal fade bd-example-modal-lg " id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" displayed="false">
+    <div class="modal-dialog modal-lg bg-white px-3" role="document" style='border-radius:30px'>
+        <div class="modal-content" style="background:transparent; border:0px">
+            
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="right: 0;position: absolute;background: #9c171e;color: #fff;padding: 10px;z-index: 9999;border-radius: 50%;width: 40px;height: 40px; opacity:1">
+            <span aria-hidden="true" >&times;</span>
+            </button>
+        <div class="modal-body">
+        <div id='form-contact-popup' class=" pb-3" >
+            <img src="assets/img/logomitrahash-02.png" class="py-md-4 py-3 mx-auto d-block" style='width:200px'>
+            <h2 class='text-center mb-5'>DAPATKAN AKSES SOFTWARE HASH CORE ERP SEKARANG!</h4>
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <script>
+            hbspt.forms.create({
+                region: "na1",
+                portalId: "7085037",
+                formId: "9e2b17e5-ccb2-436c-bca3-e0f9bed5d6be"
+            });
+            </script>
+        </div>
 
+        </div>
+        </div>
+    </div>
+    </div>
     <!-- Revolution Slider JS -->
     <script src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <script src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
