@@ -10,7 +10,7 @@
                 <div class="col-md-5 px-0 mt-md-5 pt-5">
                 <h1 class="fst-italic title text-white">HASH CORE ERP</h1>
                 <p class="lead my-3">Otomatisasi dan efisiensikan proses operasional serta tingkatkan optimasi perusahaan menggunakan software ERP terbaik berteknologi AI.</p>
-                <p class="lead mb-0"><a href="#" class="ht-btn ht-btn--default" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a></p>
+                <p class="lead mb-0 pb-5"><a href="#" class="ht-btn ht-btn--default" data-toggle="modal" data-target="#exampleModal">SELENGKAPNYA</a></p>
                 </div>
             </div>
         </div>
