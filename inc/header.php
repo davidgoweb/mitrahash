@@ -127,3 +127,42 @@
         </div>
     </div>
     <!--====================  End of header area  ====================-->
+    
+    <!--====================  mobile menu overlay ====================-->
+    <div class="mobile-menu-overlay" id="mobile-menu-overlay">
+        <div class="mobile-menu-overlay__header">
+            <div class="container-fluid--cp-60">
+                <div class="row align-items-center">
+                    <div class="col-md-4 col-sm-6 col-9">
+                        <!-- logo -->
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="assets/img/logo-1.png" class="img-fluid" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-sm-6 col-3">
+                        <!-- mobile menu content -->
+                        <div class="mobile-menu-content">
+                            <a class="mobile-navigation-close-icon" id="mobile-menu-close-trigger" href="javascript:void(0)">
+                                <i class="ion-ios-close-empty"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mobile-menu-overlay__body">
+            <nav class="offcanvas-navigation">
+                <ul>
+                    <li class="has-children">
+                        <a href="https://wa.me/+6287888000015" style="font-size:17px" target="_blank" rel="noopener"> +62 878-8800-0015</a>
+                    </li>
+                    <li class="has-children">
+                        <a href="mailto:halo@mitrahash.com" style="font-size:17px" target="_blank" rel="noopener"> halo@mitrahash.com</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!--====================  End of mobile menu overlay  ====================-->

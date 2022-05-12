@@ -382,10 +382,10 @@
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
-                                                    <span class="project-counter-single-content__project-count counter">350</span>
-                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span class="project-counter-single-content__project-count counter">7.582</span>
+                                                    <!-- <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span> -->
                                                 </div>
-                                                    <p class="project-counter-single-content__project-title">Perusahaan telah mengintegrasikan bisnisnya dengan Hash Core ERP</p>
+                                                    <p class="project-counter-single-content__project-title">Enterprise</p>
                                                     <!-- <p class="project-counter-single-content__subtext">With a countrywide network of power plants, we've doing our best to power our community.</p> -->
                                                 </div>
                                             </div>
@@ -398,10 +398,10 @@
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
-                                                    <span class="project-counter-single-content__project-count counter">10.000</span>
-                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span class="project-counter-single-content__project-count counter">52.877</span>
+                                                    <!-- <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span> -->
                                                 </div>
-                                                    <p class="project-counter-single-content__project-title">Karyawan telah merasakan kemudahan menggunakan Hash CORE ERP</p>
+                                                    <p class="project-counter-single-content__project-title">Pengguna aktif</p>
                                                     <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
                                                 </div>
                                             </div>
@@ -414,10 +414,10 @@
                                                 </div>
                                                 <div class="project-counter-single-content__content">
                                                 <div class="counter-container" style="white-space: nowrap;">
-                                                    <span class="project-counter-single-content__project-count counter">100.000</span>
-                                                    <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span>
+                                                    <span class="project-counter-single-content__project-count counter">267</span>
+                                                    <!-- <span style="font-size: 2.75rem;line-height: 1;color: #fff;font-weight: 500;display: inline-block; margin-bottom: 20px;">+</span> -->
                                                 </div>
-                                                    <p class="project-counter-single-content__project-title">Berbagai bentuk laporan dibuat setiap bulannya dengan memanfaatkan Hash CORE ERP</p>
+                                                    <p class="project-counter-single-content__project-title">Industri Dilayani</p>
                                                     <!-- <p class="project-counter-single-content__subtext">We have always been proud of what we have accomplished influential changes.</p> -->
                                                 </div>
                                             </div>
@@ -434,78 +434,9 @@
     <!--====================  End of project counter area  ====================-->
 
 
-    <!--====================  End of project counter area  ====================-->
-    <div class="contact-section">
-        <div class="row mx-0 justify-content-center">
-            <div class="col-md-6 pt-3 px-3 px-md-5">
-                <div class="career-title-area text-center section-space--bottom--50 ">
-                    <h2 class="title mt-md-5">DAPATKAN AKSES SOFTWARE HASH CORE ERP SEKARANG!</h2>
-                    <p class="subtitle">Maksimalkan efisiensi pengelolaan bisnis terbaik dengan Hash Core ERP.</p>
-                </div>
-                <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-                <script>
-                    hbspt.forms.create({
-                        region: "na1",
-                        portalId: "7085037",
-                        formId: "746f3c74-eb3c-47ab-afec-0f283f94d908"
-                    });
-                </script>
-            </div>
-        </div>
-    </div>
-    
-    <!--====================  End of project counter area  ====================-->
 
+    <?php include "inc/contact-bottom.php"?>
     <?php include "inc/footer.php"?>
-    <!--====================  mobile menu overlay ====================-->
-    <div class="mobile-menu-overlay" id="mobile-menu-overlay">
-        <div class="mobile-menu-overlay__header">
-            <div class="container-fluid--cp-60">
-                <div class="row align-items-center">
-                    <div class="col-md-4 col-sm-6 col-9">
-                        <!-- logo -->
-                        <div class="logo">
-                            <a href="index.html">
-                                <img src="assets/img/logo-1.png" class="img-fluid" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-8 col-sm-6 col-3">
-                        <!-- mobile menu content -->
-                        <div class="mobile-menu-content">
-                            <a class="mobile-navigation-close-icon" id="mobile-menu-close-trigger" href="javascript:void(0)">
-                                <i class="ion-ios-close-empty"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="mobile-menu-overlay__body">
-            <nav class="offcanvas-navigation">
-                <ul>
-                    <li class="has-children">
-                        <a href="https://wa.me/+6287888000015" style="font-size:17px" target="_blank" rel="noopener"> +62 878-8800-0015</a>
-                    </li>
-                    <li class="has-children">
-                        <a href="mailto:halo@mitrahash.com" style="font-size:17px" target="_blank" rel="noopener"> halo@mitrahash.com</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </div>
-    <!--====================  End of mobile menu overlay  ====================-->
-    <!--====================  search overlay ====================-->
-    <div class="search-overlay" id="search-overlay">
-        <a id="popup-search-close" href="#" class="popup-search-close"><i class="ion-ios-close-empty"></i></a>
-        <div class="page-popup-search-inner">
-            <form action="#">
-                <input type="text" class="search-field" id="search-field">
-            </form>
-            <p class="form-description">Hit enter to search or ESC to close</p>
-        </div>
-    </div>
-    <!--====================  End of search overlay  ====================-->
     <!--====================  scroll top ====================-->
     <a href="#" class="scroll-top" id="scroll-top">
         <i class="ion-android-arrow-up"></i>
@@ -513,316 +444,26 @@
     <!--====================  End of scroll top  ====================-->
     <!-- JS
     ============================================ -->
+    <?php include "inc/scripts.php"?>
 
-    <!-- Modernizer JS -->
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
-
-    <!-- jQuery JS -->
-    <script src="assets/js/vendor/jquery.min.js"></script>
-
-    <!-- Bootstrap JS -->
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
-
-    <!-- Popper JS -->
-    <script src="assets/js/vendor/popper.min.js"></script>
-
-    <!-- Swiper Slider JS -->
-    <script src="assets/js/plugins/swiper.min.js"></script>
-
-    <!-- Tippy JS -->
-    <script src="assets/js/plugins/tippy.min.js"></script>
-
-    <!-- Light gallery JS -->
-    <script src="assets/js/plugins/lightgallery.min.js"></script>
-
-    <!-- Light gallery video JS -->
-    <script src="assets/js/plugins/lg-video.min.js"></script>
-
-    <!-- Waypoints JS -->
-    <script src="assets/js/plugins/waypoints.min.js"></script>
-
-    <!-- Counter up JS -->
-    <script src="assets/js/plugins/counterup.min.js"></script>
-
-    <!-- Appear JS -->
-    <script src="assets/js/plugins/appear.min.js"></script>
-
-    <!-- Gmap3 JS -->
-    <script src="assets/js/plugins/gmap3.min.js"></script>
-
-    <!-- Isotope JS -->
-    <script src="assets/js/plugins/isotope.min.js"></script>
-
-    <!-- Mailchimp JS -->
-    <script src="assets/js/plugins/mailchimp-ajax-submit.min.js"></script>
-
-
-    <!-- Main JS -->
-    <script src="assets/js/main.js"></script>
-
-
-    <!-- Google Map -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD79MY72taVRlZVX2DU6L5PXOh3ezUUKMc&callback=initMap"></script>
-
-    <!-- Map JS -->
-    <script>
-        jQuery(document).ready(function($) {
-
-            var gmMapDiv = $("#google-map-one");
-
-            (
-                function($) {
-
-                    if (gmMapDiv.length) {
-
-                        var gmHeight = gmMapDiv.attr("data-height");
-                        var gmWidth = gmMapDiv.attr("data-width");
-                        var gmZoomEnable = gmMapDiv.attr("data-zoom_enable");
-                        var gmZoom = gmMapDiv.attr("data-zoom");
-                        gmMapDiv.width(gmWidth).height(gmHeight);
-                        gmMapDiv.gmap3({
-                            action: "init",
-                            marker: {
-                                values: [{
-                                    address: "40.7590615,-73.969231",
-                                    data: "<div class=\"gmap-marker-wrap\"><h5 class=\"gmap-marker-title\">New Jersey Office<\/h5><div class=\"gmap-marker-content\"><i class=\"fa fa-map-marker\" aria-hidden=\"true\"><\/i> 799-701 Ballantyne Rd<br \/>\nSyracuse, NY 13207<\/div><\/div>",
-                                    options: {
-                                        icon: "",
-                                        visible: false,
-                                    }
-                                }],
-                                events: {
-                                    click: function(marker, event, context) {
-                                        if (context.data == 0) {
-                                            return;
-                                        }
-                                        var map = $(this).gmap3("get");
-                                        infowindow = $(this).gmap3({
-                                            get: {
-                                                name: "infowindow"
-                                            }
-                                        });
-                                        if (infowindow) {
-                                            infowindow.open(map, marker);
-                                            infowindow.setContent(context.data);
-                                        } else {
-                                            $(this).gmap3({
-                                                infowindow: {
-                                                    anchor: marker,
-                                                    options: {
-                                                        content: context.data
-                                                    }
-                                                }
-                                            });
-                                        }
-                                    }
-                                }
-
-                            },
-                            overlay: {
-                                values: [{
-                                    address: "40.7590615,-73.969231",
-                                    data: "<div class=\"gmap-marker-wrap\"><h5 class=\"gmap-marker-title\">New Jersey Office<\/h5><div class=\"gmap-marker-content\"><i class=\"ion-android-pin\" aria-hidden=\"true\"><\/i> 799-701 Ballantyne Rd<br \/>\nSyracuse, NY 13207<\/div><\/div>",
-                                    options: {
-                                        content: '<div><div class="animated-dot">' +
-                                            '<div class="middle-dot"><i class="ion-android-pin"></i></div>' +
-                                            '<div class="signal"></div>' +
-                                            '<div class="signal2"></div>' + '</div></div>',
-                                    }
-                                }],
-                                events: {
-                                    click: function(overlay, event, context) {
-                                        if (context.data == 0) {
-                                            return;
-                                        }
-                                        var map = $(this).gmap3("get");
-                                        infowindow = $(this).gmap3({
-                                            get: {
-                                                name: "infowindow"
-                                            }
-                                        });
-                                        if (infowindow) {
-                                            infowindow.open(map, overlay);
-                                            infowindow.setContent(context.data);
-                                        } else {
-                                            $(this).gmap3({
-                                                infowindow: {
-                                                    anchor: overlay,
-                                                    options: {
-                                                        content: context.data
-                                                    }
-                                                }
-                                            });
-                                        }
-                                    }
-                                }
-                            },
-                            map: {
-                                options: {
-                                    zoom: parseInt(gmZoom),
-                                    zoomControl: true,
-                                    mapTypeId: google.maps.MapTypeId.ROADMAP,
-                                    mapTypeControl: false,
-                                    scaleControl: false,
-                                    scrollwheel: gmZoomEnable == 'enable' ? true : false,
-                                    streetViewControl: false,
-                                    draggable: true,
-                                    styles: [{
-                                            "featureType": "landscape.man_made",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "color": "#f7f1df"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "landscape.natural",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "color": "#d0e3b4"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "landscape.natural.terrain",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "visibility": "off"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "poi",
-                                            "elementType": "labels",
-                                            "stylers": [{
-                                                "visibility": "off"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "poi.business",
-                                            "elementType": "all",
-                                            "stylers": [{
-                                                "visibility": "off"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "poi.medical",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "color": "#fbd3da"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "poi.park",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "color": "#bde6ab"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road",
-                                            "elementType": "geometry.stroke",
-                                            "stylers": [{
-                                                "visibility": "off"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road",
-                                            "elementType": "labels",
-                                            "stylers": [{
-                                                "visibility": "off"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road.highway",
-                                            "elementType": "geometry.fill",
-                                            "stylers": [{
-                                                "color": "#ffe15f"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road.highway",
-                                            "elementType": "geometry.stroke",
-                                            "stylers": [{
-                                                "color": "#efd151"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road.arterial",
-                                            "elementType": "geometry.fill",
-                                            "stylers": [{
-                                                "color": "#ffffff"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "road.local",
-                                            "elementType": "geometry.fill",
-                                            "stylers": [{
-                                                "color": "black"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "transit.station.airport",
-                                            "elementType": "geometry.fill",
-                                            "stylers": [{
-                                                "color": "#cfb2db"
-                                            }]
-                                        },
-                                        {
-                                            "featureType": "water",
-                                            "elementType": "geometry",
-                                            "stylers": [{
-                                                "color": "#a2daf2"
-                                            }]
-                                        }
-                                    ]
-
-
-                                }
-                            }
-                        });
-                    }
-                }
-            )(jQuery);
-        });
-    </script>
-
+    
     <div class="modal fade bd-example-modal-lg " id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" displayed="false">
-    <div class="modal-dialog modal-lg bg-white px-3" role="document" style='border-radius:30px'>
-        <div class="modal-content" style="background:transparent; border:0px">
-            
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="right: 0;position: absolute;background: #9c171e;color: #fff;padding: 10px;z-index: 9999;border-radius: 50%;width: 40px;height: 40px; opacity:1">
-            <span aria-hidden="true" >&times;</span>
-            </button>
-        <div class="modal-body">
-        <div id='form-contact-popup' class=" pb-3" >
-            <img src="assets/img/logomitrahash-02.png" class="py-md-4 py-3 mx-auto d-block" style='width:200px'>
-            <h2 class='text-center mb-5'>DAPATKAN AKSES SOFTWARE HASH CORE ERP SEKARANG!</h4>
-            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-            <script>
-            hbspt.forms.create({
-                region: "na1",
-                portalId: "7085037",
-                formId: "9e2b17e5-ccb2-436c-bca3-e0f9bed5d6be"
-            });
-            </script>
-        </div>
-
-        </div>
+        <div class="modal-dialog modal-lg bg-white px-3" role="document" style='border-radius:30px'>
+            <div class="modal-content" style="background:transparent; border:0px">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="right: 0;position: absolute;background: #9c171e;color: #fff;padding: 10px;z-index: 9999;border-radius: 50%;width: 40px;height: 40px; opacity:1">
+                    <span aria-hidden="true" >&times;</span>
+                </button>
+                <div class="modal-body">
+                    <div id='form-contact-popup' class=" pb-3" >
+                        <img src="assets/img/logomitrahash-02.png" class="py-md-4 py-3 mx-auto d-block" style='width:200px'>
+                        <h2 class='text-center mb-5'>DAPATKAN AKSES SOFTWARE HASH CORE ERP SEKARANG!</h4>
+                        <?php include "inc/contact-popup.php"?>
+                        
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    </div>
-    <!-- Revolution Slider JS -->
-    <script src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
-    <script src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
-    <script src="assets/revolution/revolution-active.js"></script>
-
-    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-    <script src="assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-    <script src="assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script src="assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-    <script src="assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script src="assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-    <script src="assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-
-    <!--=====  End of JS files ======-->
 
 </body>
 
